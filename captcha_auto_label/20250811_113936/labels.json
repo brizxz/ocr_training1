@@ -1,0 +1,4787 @@
+{
+  "87c9f2b4bffae57d4490d2338d080865": {
+    "filename": "captcha_00000.png",
+    "label": null,
+    "failed_attempts": [
+      "xopa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:39:38.801143"
+  },
+  "d1e8d657b5e0a1affefced568dac5435": {
+    "filename": "captcha_00001.png",
+    "label": "ewos",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:39:44.371737"
+  },
+  "5319da684f49b8c688a4e9e0f0a6a280": {
+    "filename": "captcha_00002.png",
+    "label": null,
+    "failed_attempts": [
+      "lnpi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:39:49.087937"
+  },
+  "070bf6cd61e5e7a3c62c2e828830e381": {
+    "filename": "captcha_00003.png",
+    "label": null,
+    "failed_attempts": [
+      "eza"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:39:53.039076"
+  },
+  "36a71cd451a66effff44e91892b7ae32": {
+    "filename": "captcha_00004.png",
+    "label": null,
+    "failed_attempts": [
+      "iji"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:39:57.638130"
+  },
+  "7506ad3fb833460936b2d82283553d9d": {
+    "filename": "captcha_00005.png",
+    "label": "muhk",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:02.819472"
+  },
+  "0b5f4a6ecb87d4af3c98caef62b6a4f6": {
+    "filename": "captcha_00006.png",
+    "label": "yigo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:11.008533"
+  },
+  "783a226c74d0857fb3d4f5937a592eab": {
+    "filename": "captcha_00007.png",
+    "label": "ciwe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:16.513850"
+  },
+  "82ed11e4ac04d21766a0fb1aad1d5bab": {
+    "filename": "captcha_00008.png",
+    "label": "wzsi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:22.123717"
+  },
+  "f5466a7a042a267b390fce8f10d50909": {
+    "filename": "captcha_00009.png",
+    "label": "hxno",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:28.020512"
+  },
+  "15e253f8100a421aa250882d14dd3508": {
+    "filename": "captcha_00010.png",
+    "label": null,
+    "failed_attempts": [
+      "vigi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:40:32.392754"
+  },
+  "5ebd3d4af7f9d97181a1b3ee3294a2a6": {
+    "filename": "captcha_00011.png",
+    "label": null,
+    "failed_attempts": [
+      "tga"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:40:35.994473"
+  },
+  "2d1a5789365bedbf1c844a094717927e": {
+    "filename": "captcha_00012.png",
+    "label": null,
+    "failed_attempts": [
+      "ky"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:40:39.229077"
+  },
+  "729b4f6202955bed0f64070f0710b669": {
+    "filename": "captcha_00013.png",
+    "label": "core",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:42.588025"
+  },
+  "50498684a2dbc14c55c33f4986759942": {
+    "filename": "captcha_00014.png",
+    "label": "rigu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:47.741357"
+  },
+  "a681a83baceac52b46a977365ce423bb": {
+    "filename": "captcha_00015.png",
+    "label": "yyba",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:40:53.732732"
+  },
+  "b69af6036d1cd1e4f37da80545f994e0": {
+    "filename": "captcha_00016.png",
+    "label": null,
+    "failed_attempts": [
+      "qiwu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:40:58.982474"
+  },
+  "4b5a6156ad39b00fb4c502d57a2c55ef": {
+    "filename": "captcha_00017.png",
+    "label": "foqi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:05.619420"
+  },
+  "a2001c02fef8e6745dbbe1502b6fd8b5": {
+    "filename": "captcha_00018.png",
+    "label": "hnoe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:13.951567"
+  },
+  "50745c67f5efce0c5b478199afb19f23": {
+    "filename": "captcha_00019.png",
+    "label": null,
+    "failed_attempts": [
+      "fomo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:41:18.772431"
+  },
+  "db9efbea6e6f58604ed259737d48005e": {
+    "filename": "captcha_00020.png",
+    "label": "gess",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:23.577139"
+  },
+  "4643d0f5bac60542bba3352abfe6abcf": {
+    "filename": "captcha_00021.png",
+    "label": "kisu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:29.310696"
+  },
+  "3b440eb8272a9ba3900138e7b1961c3c": {
+    "filename": "captcha_00022.png",
+    "label": "nudy",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:34.233537"
+  },
+  "8b458644b589992f77c9bef44add3649": {
+    "filename": "captcha_00023.png",
+    "label": "xace",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:39.619729"
+  },
+  "bcbb9852687eda0fe4a4dd6059b86495": {
+    "filename": "captcha_00024.png",
+    "label": "jqwu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:46.048798"
+  },
+  "6c9775f769dfcac6dd433027f6a9264b": {
+    "filename": "captcha_00025.png",
+    "label": "sbqu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:41:51.741357"
+  },
+  "ab317d8feb90e940c54dc2bf9edd0d3f": {
+    "filename": "captcha_00026.png",
+    "label": null,
+    "failed_attempts": [
+      "hsdo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:41:55.799926"
+  },
+  "7a37d5b1f186873ab5f42af999cb09d5": {
+    "filename": "captcha_00027.png",
+    "label": null,
+    "failed_attempts": [
+      "oiiu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:41:59.532138"
+  },
+  "20d65953335c64afe7f46f76682eb427": {
+    "filename": "captcha_00028.png",
+    "label": null,
+    "failed_attempts": [
+      "sepu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:42:03.405527"
+  },
+  "8a207de1a8d310ef15ce0b00a9392673": {
+    "filename": "captcha_00029.png",
+    "label": "heuu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:08.890860"
+  },
+  "457c8fe061d78742819907e5d70cb426": {
+    "filename": "captcha_00030.png",
+    "label": "ceta",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:14.773890"
+  },
+  "77f1574be927b658da867baa1c771a2a": {
+    "filename": "captcha_00031.png",
+    "label": "yamc",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:20.476479"
+  },
+  "7c3cac70d098ee1026a52905eaf51d22": {
+    "filename": "captcha_00032.png",
+    "label": "pbre",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:28.300895"
+  },
+  "c3531a2e67ec4fd61264727f61615a61": {
+    "filename": "captcha_00033.png",
+    "label": "subu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:37.046829"
+  },
+  "763a82091fb973eab8c246af0099ac5f": {
+    "filename": "captcha_00034.png",
+    "label": "fede",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:48.808225"
+  },
+  "544cb70263748045fa93575905075229": {
+    "filename": "captcha_00035.png",
+    "label": "zuku",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:42:54.476808"
+  },
+  "f05e977e13ee024df6daaa9525350dba": {
+    "filename": "captcha_00036.png",
+    "label": null,
+    "failed_attempts": [
+      "koge"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:42:58.942092"
+  },
+  "0bd186df293df65115de8f676dff3da4": {
+    "filename": "captcha_00037.png",
+    "label": "niyi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:43:05.009392"
+  },
+  "e3c2b7229fe2dd3d5ce564abe1a0155a": {
+    "filename": "captcha_00038.png",
+    "label": null,
+    "failed_attempts": [
+      "hwu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:09.569125"
+  },
+  "c189ebb86b7d0ff4d68c144cf91a9bf3": {
+    "filename": "captcha_00039.png",
+    "label": null,
+    "failed_attempts": [
+      "uume"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:13.546259"
+  },
+  "6a8730c98ebcbf648904e6f5aa63d41e": {
+    "filename": "captcha_00040.png",
+    "label": null,
+    "failed_attempts": [
+      "whg"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:20.466347"
+  },
+  "1d721f129a8453f70b9ca111a16a2031": {
+    "filename": "captcha_00041.png",
+    "label": null,
+    "failed_attempts": [
+      "musp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:26.203659"
+  },
+  "b647c2d3e68e3c73f88e3b1ba32d946c": {
+    "filename": "captcha_00042.png",
+    "label": "sass",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:43:31.183619"
+  },
+  "e3c86f0eb63e5e4b151a04ea42704f9a": {
+    "filename": "captcha_00043.png",
+    "label": null,
+    "failed_attempts": [
+      "aye"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:35.999061"
+  },
+  "843be55cfd9332000ca67afafebb9c3d": {
+    "filename": "captcha_00044.png",
+    "label": "wobi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:43:41.655667"
+  },
+  "659db09f63dd6b49be58e94f5dbf799b": {
+    "filename": "captcha_00045.png",
+    "label": null,
+    "failed_attempts": [
+      "rze"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:43:46.091145"
+  },
+  "63ee5f45cecb72a3a6d225666c2c6578": {
+    "filename": "captcha_00046.png",
+    "label": "sqho",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:43:52.559347"
+  },
+  "827397ba3b3fbb727574d87b8199e887": {
+    "filename": "captcha_00047.png",
+    "label": "rarf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:01.405972"
+  },
+  "2990c3d25a1c27ba2322c2f491e78710": {
+    "filename": "captcha_00048.png",
+    "label": null,
+    "failed_attempts": [
+      "wom"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:44:07.965268"
+  },
+  "aba395f9621f67579957adcafff9eae0": {
+    "filename": "captcha_00049.png",
+    "label": null,
+    "failed_attempts": [
+      "teii"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:44:14.844001"
+  },
+  "b709a77f531c41f81c3234839cf67bf4": {
+    "filename": "captcha_00050.png",
+    "label": null,
+    "failed_attempts": [
+      "hwy"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:44:19.808795"
+  },
+  "1c9350a3071301f8a5b0140ed60d6fed": {
+    "filename": "captcha_00051.png",
+    "label": "heju",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:26.359797"
+  },
+  "53f05c79c6953e4fef29cf5f98de6e7b": {
+    "filename": "captcha_00052.png",
+    "label": "lokb",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:31.749982"
+  },
+  "845cf8ccf5989e04e51040d39622fb53": {
+    "filename": "captcha_00053.png",
+    "label": null,
+    "failed_attempts": [
+      "igju"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:44:35.488902"
+  },
+  "34904d0758a310c61ff704a737482a56": {
+    "filename": "captcha_00054.png",
+    "label": "dnbe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:40.343300"
+  },
+  "57b31c4ce167ca789df01e69e7a8deb3": {
+    "filename": "captcha_00055.png",
+    "label": "howo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:49.968123"
+  },
+  "4a616151d7d9730b44b1b6cbde707347": {
+    "filename": "captcha_00056.png",
+    "label": "boxp",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:44:57.610107"
+  },
+  "60d7fda4269d758469a71ca0a6345ee6": {
+    "filename": "captcha_00057.png",
+    "label": "msne",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:04.640052"
+  },
+  "caea34bcb8bf11efa0cfdbf8da136bc3": {
+    "filename": "captcha_00058.png",
+    "label": null,
+    "failed_attempts": [
+      "mtkq"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:45:11.483080"
+  },
+  "ed7487be994f3c0dbd432f20135863fd": {
+    "filename": "captcha_00059.png",
+    "label": null,
+    "failed_attempts": [
+      "qju"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:45:15.934812"
+  },
+  "07992cf5a7aa00b137303a7cf515c2c9": {
+    "filename": "captcha_00060.png",
+    "label": null,
+    "failed_attempts": [
+      "myzi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:45:20.154708"
+  },
+  "a215c3be9913efef18654aa1082e0ab1": {
+    "filename": "captcha_00061.png",
+    "label": "miui",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:25.292904"
+  },
+  "667b087bab91c497a78b60062166b486": {
+    "filename": "captcha_00062.png",
+    "label": "prqa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:31.085966"
+  },
+  "d2d53258045b27e4e0e793fb27a3ff94": {
+    "filename": "captcha_00063.png",
+    "label": null,
+    "failed_attempts": [
+      "aeue"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:45:36.433914"
+  },
+  "0ccdf1432febb6a052f9f8e321a1f85d": {
+    "filename": "captcha_00064.png",
+    "label": "soso",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:43.098894"
+  },
+  "d6826987fef505a6ef6bac9761fe49af": {
+    "filename": "captcha_00065.png",
+    "label": "hung",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:49.218582"
+  },
+  "3b48867d8967d87b58942ffaff9c375a": {
+    "filename": "captcha_00066.png",
+    "label": "keyl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:45:54.910077"
+  },
+  "aefae0aa3e4c4cc072d265bb2bc3dd6f": {
+    "filename": "captcha_00067.png",
+    "label": "hiro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:00.791616"
+  },
+  "bc3f00741328f9fc3815050b9ef79ed0": {
+    "filename": "captcha_00068.png",
+    "label": "nutu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:06.638225"
+  },
+  "db44abe86e35393974074a2a6e3505a2": {
+    "filename": "captcha_00069.png",
+    "label": null,
+    "failed_attempts": [
+      "bkhp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:46:12.399293"
+  },
+  "95fb98a6bcb8bf23648b90e044b1a400": {
+    "filename": "captcha_00070.png",
+    "label": "rizv",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:18.497876"
+  },
+  "391495e368751acd5d2149945ee1f192": {
+    "filename": "captcha_00071.png",
+    "label": "koha",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:27.423482"
+  },
+  "b42d15601c92133fd1a785359311e947": {
+    "filename": "captcha_00072.png",
+    "label": null,
+    "failed_attempts": [
+      "wogi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:46:32.335501"
+  },
+  "44edc6a2a916caf5d0b7d6a4e2136584": {
+    "filename": "captcha_00073.png",
+    "label": "xoly",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:43.775542"
+  },
+  "c44d23fdcf39b9381f9e06c8315720bc": {
+    "filename": "captcha_00074.png",
+    "label": "mfwo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:52.105579"
+  },
+  "2351b5bfe070d8cdeb74dd925cedec71": {
+    "filename": "captcha_00075.png",
+    "label": "dkwl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:46:59.084821"
+  },
+  "3f6478c9bfcee46374948eed8015235f": {
+    "filename": "captcha_00076.png",
+    "label": "vnls",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:05.401260"
+  },
+  "c991d59099eb4fb7cb58c1e29f44e492": {
+    "filename": "captcha_00077.png",
+    "label": "nesm",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:10.185350"
+  },
+  "41fab91f30a25f809984a280f2b9b0c1": {
+    "filename": "captcha_00078.png",
+    "label": "hoee",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:14.872372"
+  },
+  "8b6474d7c17473bd7b500b4f5d95f13e": {
+    "filename": "captcha_00079.png",
+    "label": "btdu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:20.516314"
+  },
+  "8705a31807d572c76f3d4795de2c0a0f": {
+    "filename": "captcha_00080.png",
+    "label": "kace",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:29.341556"
+  },
+  "69f26ff5b8b90c9d4c46b10e7849da7a": {
+    "filename": "captcha_00081.png",
+    "label": null,
+    "failed_attempts": [
+      "puma"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:47:33.925308"
+  },
+  "6693e2abce79632f974450659e0e6e3e": {
+    "filename": "captcha_00082.png",
+    "label": "hxye",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:39.287059"
+  },
+  "4a11b29c0e1f0f66a65582fb2cd14d3e": {
+    "filename": "captcha_00083.png",
+    "label": null,
+    "failed_attempts": [
+      "maii"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:47:43.492446"
+  },
+  "b4db8f1215459bac25836f963274dc9f": {
+    "filename": "captcha_00084.png",
+    "label": "xxpa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:48.455103"
+  },
+  "880c5a1012a9994f03765c5f2acf10ca": {
+    "filename": "captcha_00085.png",
+    "label": null,
+    "failed_attempts": [
+      "oxhi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:47:52.825927"
+  },
+  "1d2e410751cf192be055c4ef5e86624a": {
+    "filename": "captcha_00086.png",
+    "label": "lolu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:47:58.121981"
+  },
+  "7f844cd485f0c6a048bd138d51abe2d1": {
+    "filename": "captcha_00087.png",
+    "label": "lwsu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:03.224837"
+  },
+  "71609c73d47e6164922bc950ee47c73f": {
+    "filename": "captcha_00088.png",
+    "label": null,
+    "failed_attempts": [
+      "weue"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:48:07.333273"
+  },
+  "35312b312464a5463fb6b3b13720f846": {
+    "filename": "captcha_00089.png",
+    "label": null,
+    "failed_attempts": [
+      "ygur"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:48:11.789739"
+  },
+  "ac56f61ad476581ad184cd033595f91c": {
+    "filename": "captcha_00090.png",
+    "label": null,
+    "failed_attempts": [
+      "xju"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:48:15.509533"
+  },
+  "da60a88df07b1609dc33d5fb563971c9": {
+    "filename": "captcha_00091.png",
+    "label": "eihi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:20.334698"
+  },
+  "f70d955a1b35d2a55d3fa4fdc5d49d3a": {
+    "filename": "captcha_00092.png",
+    "label": "woaa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:25.830466"
+  },
+  "4aa755c770b7a7178341bc44c65d7cdf": {
+    "filename": "captcha_00093.png",
+    "label": "xjdu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:31.865194"
+  },
+  "1944239ab0cd014a376a6ea90bbf0506": {
+    "filename": "captcha_00094.png",
+    "label": "wosq",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:38.267674"
+  },
+  "a22dc8377b938dccae12e515a1caee39": {
+    "filename": "captcha_00095.png",
+    "label": null,
+    "failed_attempts": [
+      "wpie"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:48:43.862929"
+  },
+  "0cf3513bed340b627983a3c19f4a1661": {
+    "filename": "captcha_00096.png",
+    "label": "uuid",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:49.067665"
+  },
+  "f8e1b0055796862a270df6dcac1d69f0": {
+    "filename": "captcha_00097.png",
+    "label": "qlex",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:48:55.026184"
+  },
+  "ebdc4beb821cbac07e6045e95a872980": {
+    "filename": "captcha_00098.png",
+    "label": null,
+    "failed_attempts": [
+      "wkya"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:48:59.989364"
+  },
+  "ae46ff964c9789b76efa14fb3b13666d": {
+    "filename": "captcha_00099.png",
+    "label": null,
+    "failed_attempts": [
+      "sama"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:05.849210"
+  },
+  "b364d9cfbe34c3457ce44accebb497bf": {
+    "filename": "captcha_00100.png",
+    "label": "shpi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:49:11.050667"
+  },
+  "04ecf18208a5e2aa72971950a0d24260": {
+    "filename": "captcha_00101.png",
+    "label": null,
+    "failed_attempts": [
+      "ueha"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:16.383774"
+  },
+  "660267030ab3b7a33922a0011694009f": {
+    "filename": "captcha_00102.png",
+    "label": null,
+    "failed_attempts": [
+      "uii"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:20.229460"
+  },
+  "90b9c0ebe4a622d9708e9fc84d99d65f": {
+    "filename": "captcha_00103.png",
+    "label": null,
+    "failed_attempts": [
+      "wxi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:24.467626"
+  },
+  "dbee15f9638e3ecf89b9847525c5f56c": {
+    "filename": "captcha_00104.png",
+    "label": "hkpe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:49:29.510516"
+  },
+  "0312b93ed38ca921c2c7f5a90f3f40b5": {
+    "filename": "captcha_00105.png",
+    "label": null,
+    "failed_attempts": [
+      "mbba"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:37.381008"
+  },
+  "7a84006c59e126719afe9e16a841853d": {
+    "filename": "captcha_00106.png",
+    "label": "ceco",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:49:43.823797"
+  },
+  "1de26787524941b035351a46f4b561c5": {
+    "filename": "captcha_00107.png",
+    "label": "oidi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:49:50.438332"
+  },
+  "4b199d4ca38bfc6e8008df9fa3e4e0b5": {
+    "filename": "captcha_00108.png",
+    "label": null,
+    "failed_attempts": [
+      "zgu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:49:55.425515"
+  },
+  "84b5f3a94f5f4b2740e4d147e6335ab8": {
+    "filename": "captcha_00109.png",
+    "label": "xima",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:00.908452"
+  },
+  "52af9f89d39d0785439d73de1ee803be": {
+    "filename": "captcha_00110.png",
+    "label": "bffc",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:05.778884"
+  },
+  "b86f20f144d473c43a9f58d517fa2344": {
+    "filename": "captcha_00111.png",
+    "label": null,
+    "failed_attempts": [
+      "ufu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:09.544956"
+  },
+  "344ebd80d1113931b1c268760fe64fbb": {
+    "filename": "captcha_00112.png",
+    "label": null,
+    "failed_attempts": [
+      "mmpe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:13.340270"
+  },
+  "c3d64a97b06e9cf6147b4ce0a7df5fc6": {
+    "filename": "captcha_00113.png",
+    "label": null,
+    "failed_attempts": [
+      "ppeei"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:17.151981"
+  },
+  "30fc685cfdba821b72b08017ec414dbe": {
+    "filename": "captcha_00114.png",
+    "label": null,
+    "failed_attempts": [
+      "oica"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:21.614755"
+  },
+  "57b67b731a3362ebc8cfa692b9c6c0de": {
+    "filename": "captcha_00115.png",
+    "label": "cofo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:25.771639"
+  },
+  "4379b712762e3b5bd5b604420f6c4166": {
+    "filename": "captcha_00116.png",
+    "label": null,
+    "failed_attempts": [
+      "remu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:29.812501"
+  },
+  "1e03fec6783fe4652832e9adfeffab26": {
+    "filename": "captcha_00117.png",
+    "label": null,
+    "failed_attempts": [
+      "zozp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:34.010622"
+  },
+  "c2878faac3e9522c3a8c9100f9a2d8d5": {
+    "filename": "captcha_00118.png",
+    "label": "xemo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:39.208523"
+  },
+  "e5327029ef5a65dde78a2dd38ab1be4d": {
+    "filename": "captcha_00119.png",
+    "label": "aiyi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:45.058022"
+  },
+  "c05b197265157e9967684d6daacb6ea6": {
+    "filename": "captcha_00120.png",
+    "label": "zohu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:50:51.639894"
+  },
+  "52bed58efd705c778b01de3cb5e3ca58": {
+    "filename": "captcha_00121.png",
+    "label": null,
+    "failed_attempts": [
+      "j"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:50:56.213973"
+  },
+  "e40ab7dd0e4daae121ca78565f49d8bb": {
+    "filename": "captcha_00122.png",
+    "label": null,
+    "failed_attempts": [
+      "agpa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:51:00.285635"
+  },
+  "69a79d8c82357131b204aaefb43c9e39": {
+    "filename": "captcha_00123.png",
+    "label": "geba",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:05.527240"
+  },
+  "2c0f89d1872e4a7dd333de9f757798d2": {
+    "filename": "captcha_00124.png",
+    "label": "rkki",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:13.364038"
+  },
+  "c93b71f5c904f289de04eb6f25dace74": {
+    "filename": "captcha_00125.png",
+    "label": null,
+    "failed_attempts": [
+      "shuh"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:51:18.415946"
+  },
+  "b86a925035ad3d34ce50a667b260ba1c": {
+    "filename": "captcha_00126.png",
+    "label": "bkyo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:25.231610"
+  },
+  "6e54b93b0ac35546c4e28abac57e4f92": {
+    "filename": "captcha_00127.png",
+    "label": "mohu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:36.004776"
+  },
+  "5211d21ec3f051d386348e717d7b49d0": {
+    "filename": "captcha_00128.png",
+    "label": "zocu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:43.961155"
+  },
+  "7c8a577990f9fabe59af4cef8b80404b": {
+    "filename": "captcha_00129.png",
+    "label": "zote",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:51:50.792885"
+  },
+  "661bd74a1358196f998ce989cf87daf5": {
+    "filename": "captcha_00130.png",
+    "label": null,
+    "failed_attempts": [
+      "hobe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:51:57.717861"
+  },
+  "0d7a475e342f35f87b73dca0779d7b9a": {
+    "filename": "captcha_00131.png",
+    "label": "aati",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:52:05.953298"
+  },
+  "57c9da83dbe01bbbeac023868cda97f6": {
+    "filename": "captcha_00132.png",
+    "label": null,
+    "failed_attempts": [
+      "idlv"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:52:11.008938"
+  },
+  "7c41f35ce7f4a7e1e348c2da2f0797ce": {
+    "filename": "captcha_00133.png",
+    "label": null,
+    "failed_attempts": [
+      "beh"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:52:15.607698"
+  },
+  "05d9582c7c7a2b5b172f3be26898843a": {
+    "filename": "captcha_00134.png",
+    "label": null,
+    "failed_attempts": [
+      "bxu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:52:20.917396"
+  },
+  "30e3b6e9cb0adbe9984d633ccf4df172": {
+    "filename": "captcha_00135.png",
+    "label": "lihi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:52:29.072295"
+  },
+  "8f7a2ba14c41c7c28219cef6b0e470c2": {
+    "filename": "captcha_00136.png",
+    "label": "safi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:52:35.943019"
+  },
+  "2b220284571555700e8a688916fd7052": {
+    "filename": "captcha_00137.png",
+    "label": null,
+    "failed_attempts": [
+      "mumo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:52:43.493213"
+  },
+  "82e323e8c02bfeac17fab0c4e4fef591": {
+    "filename": "captcha_00138.png",
+    "label": "pwre",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:52:50.086218"
+  },
+  "8d8aa2118943665c0a3cee81a5464ce5": {
+    "filename": "captcha_00139.png",
+    "label": "bklt",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:52:56.410016"
+  },
+  "ad38e133482c4a5a2775c19ef38f91ed": {
+    "filename": "captcha_00140.png",
+    "label": null,
+    "failed_attempts": [
+      "zono"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:53:03.149957"
+  },
+  "c929b3b35f392d0ba7c4af2fb1aa71ba": {
+    "filename": "captcha_00141.png",
+    "label": "fdhy",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:08.045079"
+  },
+  "6303fe7364868056d7770b1eaa526581": {
+    "filename": "captcha_00142.png",
+    "label": "shra",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:13.654272"
+  },
+  "4497bd5f51db0994a86d5f43ba42ba69": {
+    "filename": "captcha_00143.png",
+    "label": null,
+    "failed_attempts": [
+      "hqn"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:53:19.454861"
+  },
+  "483051de90f6e55322f880222758519e": {
+    "filename": "captcha_00144.png",
+    "label": null,
+    "failed_attempts": [
+      "keh"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:53:24.102808"
+  },
+  "8ec00fcc5c15fc7eeb76597f77ba29e9": {
+    "filename": "captcha_00145.png",
+    "label": "suhe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:33.024612"
+  },
+  "141cbb5f087d67046d2cb81622e9995d": {
+    "filename": "captcha_00146.png",
+    "label": "lwpu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:39.862290"
+  },
+  "ea5ec68b0a07970bf77bcad8883c9a83": {
+    "filename": "captcha_00147.png",
+    "label": "godc",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:47.443376"
+  },
+  "5c75c68dbe553396c799e29e52f16ce5": {
+    "filename": "captcha_00148.png",
+    "label": "uymu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:52.834194"
+  },
+  "f5b6c50a6ea214832113f6b5d26832f7": {
+    "filename": "captcha_00149.png",
+    "label": "bili",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:53:58.129455"
+  },
+  "0b71c5e9fca466a14c470e0ce374cee3": {
+    "filename": "captcha_00150.png",
+    "label": null,
+    "failed_attempts": [
+      "bae"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:54:01.929278"
+  },
+  "6f6723b191cf9777b6e5b361d066ba92": {
+    "filename": "captcha_00151.png",
+    "label": null,
+    "failed_attempts": [
+      "mea"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:54:05.547096"
+  },
+  "9c64ad62d022713de75da93fa4b0be90": {
+    "filename": "captcha_00152.png",
+    "label": null,
+    "failed_attempts": [
+      "acee"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:54:09.238452"
+  },
+  "06a8cf90aee80bf51ab7168a37a343b4": {
+    "filename": "captcha_00153.png",
+    "label": null,
+    "failed_attempts": [
+      "ngjt"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:54:13.016522"
+  },
+  "8d9de4b8ee7d802d62333f9dee5bd33f": {
+    "filename": "captcha_00154.png",
+    "label": "qozi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:54:19.633818"
+  },
+  "b5e827b2486a54a15acc7d13a10155fc": {
+    "filename": "captcha_00155.png",
+    "label": "oeci",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:54:26.932016"
+  },
+  "b20bd88721ed6e0e3441ad75626f4d5b": {
+    "filename": "captcha_00156.png",
+    "label": "gizj",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:54:37.238550"
+  },
+  "5ee543dcf73f6353c6d783b4369676b8": {
+    "filename": "captcha_00157.png",
+    "label": "puhe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:54:49.290248"
+  },
+  "58d53e34873f85e1df6d80a1b25e09fb": {
+    "filename": "captcha_00158.png",
+    "label": null,
+    "failed_attempts": [
+      "oye"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:55:23.969052"
+  },
+  "e9ecd822f3a2ce01289d2e29aedd524f": {
+    "filename": "captcha_00159.png",
+    "label": null,
+    "failed_attempts": [
+      "pub"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:55:29.018392"
+  },
+  "97e80c0d9c37846c892701a707053ae7": {
+    "filename": "captcha_00160.png",
+    "label": "vate",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:55:36.750223"
+  },
+  "5ef3cc3012fc776a992f3980ef751d26": {
+    "filename": "captcha_00161.png",
+    "label": "yofw",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:55:48.876985"
+  },
+  "9a79ff9a21f899e5f4abac0ab1f8da15": {
+    "filename": "captcha_00162.png",
+    "label": "byft",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:55:54.836268"
+  },
+  "49bf5a13aa793fa31b4d9db64778399d": {
+    "filename": "captcha_00163.png",
+    "label": "zuye",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:01.434135"
+  },
+  "860c9dc2195cb5596167d5266dee1ec3": {
+    "filename": "captcha_00164.png",
+    "label": "ewho",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:07.210542"
+  },
+  "ab2ddeef57cfe56afdc710faa1a2013b": {
+    "filename": "captcha_00165.png",
+    "label": "gubg",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:13.245523"
+  },
+  "190bbb0a58c67c2dd5a082aca8df2c00": {
+    "filename": "captcha_00166.png",
+    "label": "pmze",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:19.370075"
+  },
+  "3b3e20e68ed94f081f776e205b373e32": {
+    "filename": "captcha_00167.png",
+    "label": "kadi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:27.955626"
+  },
+  "a71ea1afce0f03e356a213b44e3e83d6": {
+    "filename": "captcha_00168.png",
+    "label": null,
+    "failed_attempts": [
+      "keae"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:56:33.605907"
+  },
+  "b08c300ba7479d80678d5344103a2bf8": {
+    "filename": "captcha_00169.png",
+    "label": "pizo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:39.542671"
+  },
+  "bf076a2040a14b27f22b8131a4199fa4": {
+    "filename": "captcha_00170.png",
+    "label": "tuna",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:46.554693"
+  },
+  "3af0adf0a485545b191ff5ca4ba308fa": {
+    "filename": "captcha_00171.png",
+    "label": "cotv",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:56:54.395727"
+  },
+  "3d0ab5778d70f43d213026e271acd662": {
+    "filename": "captcha_00172.png",
+    "label": null,
+    "failed_attempts": [
+      "bio"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:56:59.011336"
+  },
+  "8d329581c39c50e232fefbc6fecb27b8": {
+    "filename": "captcha_00173.png",
+    "label": null,
+    "failed_attempts": [
+      "vswu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:57:03.002848"
+  },
+  "97f7134a6d2fd4fb21b97a77107ddddf": {
+    "filename": "captcha_00174.png",
+    "label": null,
+    "failed_attempts": [
+      "klx"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:57:06.945006"
+  },
+  "09aed1b92b6dda43a20a376070b497e2": {
+    "filename": "captcha_00175.png",
+    "label": null,
+    "failed_attempts": [
+      "wifo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:57:14.361200"
+  },
+  "243a3640ca923f38550864e528b42a45": {
+    "filename": "captcha_00176.png",
+    "label": "jipu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:57:24.479708"
+  },
+  "e8acb60a5eb1cf16ec4591efafda32f7": {
+    "filename": "captcha_00177.png",
+    "label": "dova",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:57:33.916712"
+  },
+  "61b5ff82ee073aaa44466f6954c0d9fb": {
+    "filename": "captcha_00178.png",
+    "label": null,
+    "failed_attempts": [
+      "bwuo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:57:39.033930"
+  },
+  "3dfc307baefb101828e75de4c8ea85f8": {
+    "filename": "captcha_00179.png",
+    "label": null,
+    "failed_attempts": [
+      "tama"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:57:42.990399"
+  },
+  "792a38cba70b2bffff4553cee1e90d17": {
+    "filename": "captcha_00180.png",
+    "label": "mfgr",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:57:48.390272"
+  },
+  "c7b46bbd9f7cf0bc6983d024b415e125": {
+    "filename": "captcha_00181.png",
+    "label": "xobi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:57:55.669989"
+  },
+  "eed8d4d1eda8cacc39b49630986c3c05": {
+    "filename": "captcha_00182.png",
+    "label": null,
+    "failed_attempts": [
+      "mwpj"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:00.547268"
+  },
+  "20fd49e05c7048c826885611f2116b86": {
+    "filename": "captcha_00183.png",
+    "label": null,
+    "failed_attempts": [
+      "rauu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:05.057159"
+  },
+  "edd28aea54f3fcbc6a01fb25615ecdc3": {
+    "filename": "captcha_00184.png",
+    "label": null,
+    "failed_attempts": [
+      "srm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:09.194183"
+  },
+  "66bf37656923db2793c7133234416ecb": {
+    "filename": "captcha_00185.png",
+    "label": "sucz",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:58:14.443918"
+  },
+  "60c04c25e35a61e18cf40a543cf91c5e": {
+    "filename": "captcha_00186.png",
+    "label": "tysu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:58:19.963474"
+  },
+  "5c2b7e988eadff7e337eaf7293204533": {
+    "filename": "captcha_00187.png",
+    "label": "sdca",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:58:26.999894"
+  },
+  "aa10db39b5eb8ff1f0b469fbaa0303c3": {
+    "filename": "captcha_00188.png",
+    "label": null,
+    "failed_attempts": [
+      "yoxa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:33.957952"
+  },
+  "8cfb06e179d5761c64f0eea826af7f77": {
+    "filename": "captcha_00189.png",
+    "label": null,
+    "failed_attempts": [
+      "aunu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:39.614950"
+  },
+  "5d28709ac20c1c6d0df68c5ed3122631": {
+    "filename": "captcha_00190.png",
+    "label": null,
+    "failed_attempts": [
+      "snke"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:46.170201"
+  },
+  "2d0c36b0b9457c266569b71f5f4eaf0c": {
+    "filename": "captcha_00191.png",
+    "label": null,
+    "failed_attempts": [
+      "qyt"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:58:51.222468"
+  },
+  "2370beabd8ab6cc7d06216405fea8238": {
+    "filename": "captcha_00192.png",
+    "label": "soro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:58:56.454640"
+  },
+  "5ce502e1e6be21f7f9b12039c49fe7b6": {
+    "filename": "captcha_00193.png",
+    "label": "luga",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:02.257934"
+  },
+  "6b97bcb776ea2f255cdcefff5da56c67": {
+    "filename": "captcha_00194.png",
+    "label": "uunn",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:10.183629"
+  },
+  "aa832115ea7f851e36ba1a0ffb0d12e2": {
+    "filename": "captcha_00195.png",
+    "label": null,
+    "failed_attempts": [
+      "lepi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:59:17.746706"
+  },
+  "c86bb2114fdbaf401ee85f2f0a844d00": {
+    "filename": "captcha_00196.png",
+    "label": "sari",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:28.924334"
+  },
+  "859d4930c6b48191b6efbbd1bea8ee09": {
+    "filename": "captcha_00197.png",
+    "label": null,
+    "failed_attempts": [
+      "samo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:59:34.906471"
+  },
+  "95ea2bec9c0b8d4f0afed736954bcc15": {
+    "filename": "captcha_00198.png",
+    "label": null,
+    "failed_attempts": [
+      "gmru"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T11:59:39.228042"
+  },
+  "34631c7b7ae5bb9b0ae2aa9a1e9797b1": {
+    "filename": "captcha_00199.png",
+    "label": "gafu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:45.422420"
+  },
+  "640100229f74cbf98463cf712ac00fa1": {
+    "filename": "captcha_00200.png",
+    "label": "kqgo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:51.949454"
+  },
+  "fad5c555dbfac0c3eb9d09b3ede88568": {
+    "filename": "captcha_00201.png",
+    "label": "hnsj",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T11:59:58.821562"
+  },
+  "ed9f9feccb8de6f06b7ad8af61ccb827": {
+    "filename": "captcha_00202.png",
+    "label": "zqvu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:05.626368"
+  },
+  "afabe0a7967a8de1b7a6ced3681e527e": {
+    "filename": "captcha_00203.png",
+    "label": "aopq",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:13.377567"
+  },
+  "a61600cb13a0ac9339c3664e24a63084": {
+    "filename": "captcha_00204.png",
+    "label": "xelw",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:20.528443"
+  },
+  "503232e16cb135f6e1debc213c242a51": {
+    "filename": "captcha_00205.png",
+    "label": null,
+    "failed_attempts": [
+      "iqi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:00:26.133462"
+  },
+  "67d266dcf38ae7f26cab8d3da850506a": {
+    "filename": "captcha_00206.png",
+    "label": "hodo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:31.928213"
+  },
+  "aa785f6d34df1fcf2c59d4244fb565a3": {
+    "filename": "captcha_00207.png",
+    "label": "waui",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:39.917328"
+  },
+  "be10b4e17e18dc6521218217c0cf48e7": {
+    "filename": "captcha_00208.png",
+    "label": null,
+    "failed_attempts": [
+      "vsa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:00:45.691019"
+  },
+  "7309f4e206f1ef54cc51fab5f16b6bc9": {
+    "filename": "captcha_00209.png",
+    "label": null,
+    "failed_attempts": [
+      "gena"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:00:49.881511"
+  },
+  "d30b78e1b4a24ca44923147a0ee5aee0": {
+    "filename": "captcha_00210.png",
+    "label": "ouhe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:00:54.245017"
+  },
+  "80faf67c6abc761a12d44060aad6a3b6": {
+    "filename": "captcha_00211.png",
+    "label": null,
+    "failed_attempts": [
+      "mnu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:00:59.090298"
+  },
+  "2c6d7f32373ac57663c5fac214b39eb4": {
+    "filename": "captcha_00212.png",
+    "label": null,
+    "failed_attempts": [
+      "cbok"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:01:05.020022"
+  },
+  "e3750b47420c48dae7fb9e18501e28db": {
+    "filename": "captcha_00213.png",
+    "label": "xngv",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:10.469616"
+  },
+  "9853c44e856df849eadb5dddbe1e215d": {
+    "filename": "captcha_00214.png",
+    "label": null,
+    "failed_attempts": [
+      "eeu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:01:15.414723"
+  },
+  "f75118b7a2f53acb3ec8369a54afdce6": {
+    "filename": "captcha_00215.png",
+    "label": "coqe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:21.296245"
+  },
+  "daeffb6aab3daa4fade962fa5d3ed225": {
+    "filename": "captcha_00216.png",
+    "label": null,
+    "failed_attempts": [
+      "whfe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:01:27.451205"
+  },
+  "48e64d9dba910eca8a0272857e505edb": {
+    "filename": "captcha_00217.png",
+    "label": "kghu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:34.658135"
+  },
+  "a3a0323ccbe3b88a5d4a643be51c861b": {
+    "filename": "captcha_00218.png",
+    "label": "ebni",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:41.581670"
+  },
+  "d63599558911bf5da13bf6504cae981a": {
+    "filename": "captcha_00219.png",
+    "label": "suki",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:47.390868"
+  },
+  "b682bd85d77308e702b33f5ab5be5b27": {
+    "filename": "captcha_00220.png",
+    "label": null,
+    "failed_attempts": [
+      "idu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:01:51.971470"
+  },
+  "e0df28e8efb468c839ab40384f6bd614": {
+    "filename": "captcha_00221.png",
+    "label": "vone",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:01:59.528583"
+  },
+  "21fc38b1101ac0a85b8927324ae60013": {
+    "filename": "captcha_00222.png",
+    "label": "balo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:02:10.314021"
+  },
+  "b40ddd2761aad7792336dfa827d7df5d": {
+    "filename": "captcha_00223.png",
+    "label": "pufa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:02:16.722630"
+  },
+  "2300110b1115a3545e8d2a4ab2a68874": {
+    "filename": "captcha_00224.png",
+    "label": "liao",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:02:24.361203"
+  },
+  "1278322b9e1ded5e709870f3b7fd983c": {
+    "filename": "captcha_00225.png",
+    "label": null,
+    "failed_attempts": [
+      "hfpm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:02:37.091221"
+  },
+  "2d64abe7dc89fafb7d074b9870fdd990": {
+    "filename": "captcha_00226.png",
+    "label": "news",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:02:43.851382"
+  },
+  "fd69422cf552e9ccbad329c3df312c2c": {
+    "filename": "captcha_00227.png",
+    "label": "fkqi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:02:52.954900"
+  },
+  "dbc0d2870739ddc86eeada65447779dd": {
+    "filename": "captcha_00228.png",
+    "label": null,
+    "failed_attempts": [
+      "doqq"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:02:58.975408"
+  },
+  "cdd50bfdae125851584305ddfe851fd3": {
+    "filename": "captcha_00229.png",
+    "label": "ryzo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:03:06.152632"
+  },
+  "69c29d4f712a1b1d7ea5352616e403c5": {
+    "filename": "captcha_00230.png",
+    "label": null,
+    "failed_attempts": [
+      "pav"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:03:10.903874"
+  },
+  "e8a235447d518bedb98e952a584928e2": {
+    "filename": "captcha_00231.png",
+    "label": "jixo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:03:15.195352"
+  },
+  "5afa430ae6abb83386cc170010026293": {
+    "filename": "captcha_00232.png",
+    "label": "fosz",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:03:21.276898"
+  },
+  "91f37a5cfb645708aae4687eed10cd94": {
+    "filename": "captcha_00233.png",
+    "label": null,
+    "failed_attempts": [
+      "momw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:03:28.353535"
+  },
+  "92229bd9937c52e43749b8befb72dbe2": {
+    "filename": "captcha_00234.png",
+    "label": "aqnd",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:03:34.924191"
+  },
+  "dac82c717c79a0aa82983223130fb780": {
+    "filename": "captcha_00235.png",
+    "label": "meaa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:03:43.782544"
+  },
+  "f7ca8ad1b115e1ed92845b0447158981": {
+    "filename": "captcha_00236.png",
+    "label": null,
+    "failed_attempts": [
+      "jwe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:03:49.829925"
+  },
+  "82754af8829ab96909ac656297d93931": {
+    "filename": "captcha_00237.png",
+    "label": null,
+    "failed_attempts": [
+      "aoze"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:03:55.162479"
+  },
+  "d91ffeae95dd15f8ec5dd9262c1c8591": {
+    "filename": "captcha_00238.png",
+    "label": null,
+    "failed_attempts": [
+      "numw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:00.575104"
+  },
+  "5b873a8e934bf68288d7031e36ac0ff2": {
+    "filename": "captcha_00239.png",
+    "label": null,
+    "failed_attempts": [
+      "wrn"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:05.977116"
+  },
+  "df411e414f998d77e3486fd83a4c996c": {
+    "filename": "captcha_00240.png",
+    "label": "toge",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:04:14.467965"
+  },
+  "6b7c72daf1159ee054acf4d90320a945": {
+    "filename": "captcha_00241.png",
+    "label": "btsu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:04:23.952820"
+  },
+  "79f8fcaf3ac011b322e1d4c4ce4fca68": {
+    "filename": "captcha_00242.png",
+    "label": "yata",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:04:32.400074"
+  },
+  "17ece93304de1904d0596276aee149e0": {
+    "filename": "captcha_00243.png",
+    "label": null,
+    "failed_attempts": [
+      "wmcu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:39.794329"
+  },
+  "b221927fd93fe2c1b73437b8fe8d335e": {
+    "filename": "captcha_00244.png",
+    "label": null,
+    "failed_attempts": [
+      "1wa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:44.414204"
+  },
+  "24b4bfe0d276980da78e3ba264ef6ff4": {
+    "filename": "captcha_00245.png",
+    "label": null,
+    "failed_attempts": [
+      "wwbx"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:48.634935"
+  },
+  "aa526fac5de69af70d66f37d2155869e": {
+    "filename": "captcha_00246.png",
+    "label": null,
+    "failed_attempts": [
+      "dwo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:04:52.847543"
+  },
+  "fed032fca1d5eb4cf8132f4c4cdf2141": {
+    "filename": "captcha_00247.png",
+    "label": "jaha",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:04:58.370327"
+  },
+  "c8300250828624afc6b5058936b68df7": {
+    "filename": "captcha_00248.png",
+    "label": null,
+    "failed_attempts": [
+      "uika"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:02.869660"
+  },
+  "4d27da0d0427cd80e9da04a1a4a5f330": {
+    "filename": "captcha_00249.png",
+    "label": null,
+    "failed_attempts": [
+      "xoau"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:06.948269"
+  },
+  "86d4595728d22cd8ec17d4a7e3febc19": {
+    "filename": "captcha_00250.png",
+    "label": "cwim",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:05:11.389055"
+  },
+  "6c65f69cd0966ec1ebd9c588e83a9711": {
+    "filename": "captcha_00251.png",
+    "label": null,
+    "failed_attempts": [
+      "uona"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:16.979488"
+  },
+  "ed4bfc5485eb7f6e670fe8310c99f113": {
+    "filename": "captcha_00252.png",
+    "label": null,
+    "failed_attempts": [
+      "hhml"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:21.849584"
+  },
+  "ed253f1171113df8f752ac75541d1682": {
+    "filename": "captcha_00253.png",
+    "label": "qnqo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:05:27.604895"
+  },
+  "9da8ff5d2233b3d5881c27d2c696ced4": {
+    "filename": "captcha_00254.png",
+    "label": null,
+    "failed_attempts": [
+      "agga"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:33.387500"
+  },
+  "ee4da94e32837863d58b2785daf877da": {
+    "filename": "captcha_00255.png",
+    "label": "bohi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:05:41.661246"
+  },
+  "023b4380278fe2540964f67bd564995c": {
+    "filename": "captcha_00256.png",
+    "label": "ciaq",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:05:49.378254"
+  },
+  "9d48249deaa042bea01357ddd858ddeb": {
+    "filename": "captcha_00257.png",
+    "label": null,
+    "failed_attempts": [
+      "cot"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:05:54.501402"
+  },
+  "646f60b43e8946973e29ac699e4a36f8": {
+    "filename": "captcha_00258.png",
+    "label": null,
+    "failed_attempts": [
+      "silc"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:06:03.179711"
+  },
+  "1e1bc5e6172fab01ef6795c3c3437b63": {
+    "filename": "captcha_00259.png",
+    "label": "dioo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:06:13.805960"
+  },
+  "5a28c9dff64f2428cdaa96828785fa32": {
+    "filename": "captcha_00260.png",
+    "label": "eehi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:06:22.748998"
+  },
+  "5cd0b323a6688fa19c3c2f177dde7027": {
+    "filename": "captcha_00261.png",
+    "label": "lolu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:06:30.651068"
+  },
+  "7bcaff0941318b756e4f52f07add30f5": {
+    "filename": "captcha_00262.png",
+    "label": null,
+    "failed_attempts": [
+      "rook"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:06:36.013908"
+  },
+  "fffdfb54901c95a089cc98dee97a9c2b": {
+    "filename": "captcha_00263.png",
+    "label": "defw",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:06:41.860729"
+  },
+  "83b7a3d9919a7e03768af29eeaca7f31": {
+    "filename": "captcha_00264.png",
+    "label": null,
+    "failed_attempts": [
+      "nyob"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:06:48.664541"
+  },
+  "4b198194b366505bf218657b4598c4fe": {
+    "filename": "captcha_00265.png",
+    "label": "bmye",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:06:55.684137"
+  },
+  "9737972ed1e4ee43f3b0f295316f8200": {
+    "filename": "captcha_00266.png",
+    "label": "nuwe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:07:02.501510"
+  },
+  "b7872e9e15a96a8b836ef995528e03c7": {
+    "filename": "captcha_00267.png",
+    "label": "qtji",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:07:08.423356"
+  },
+  "50218b5c692eb06f3f0d65118f805487": {
+    "filename": "captcha_00268.png",
+    "label": null,
+    "failed_attempts": [
+      "julu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:13.237189"
+  },
+  "edc4d51cdf07e2d793741cda7bd190e6": {
+    "filename": "captcha_00269.png",
+    "label": null,
+    "failed_attempts": [
+      "mua"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:19.643649"
+  },
+  "10670a2e84ad82fb771d53e1e110f357": {
+    "filename": "captcha_00270.png",
+    "label": "texu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:07:25.973737"
+  },
+  "8f9aa38ab00ac876e41b7252c3d3a492": {
+    "filename": "captcha_00271.png",
+    "label": null,
+    "failed_attempts": [
+      "yze"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:31.331541"
+  },
+  "cf3ab37010c1038aa4f96872894b861f": {
+    "filename": "captcha_00272.png",
+    "label": null,
+    "failed_attempts": [
+      "wjk"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:35.263913"
+  },
+  "a3b072e42641c4eb6183fbb10a5d22f6": {
+    "filename": "captcha_00273.png",
+    "label": null,
+    "failed_attempts": [
+      "jro"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:39.155440"
+  },
+  "3a1b1bcb417b03fe13a98cd84f679274": {
+    "filename": "captcha_00274.png",
+    "label": null,
+    "failed_attempts": [
+      "roue"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:43.208985"
+  },
+  "a07f6bb4816b59702d988a11d9e82266": {
+    "filename": "captcha_00275.png",
+    "label": null,
+    "failed_attempts": [
+      "fmo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:47.364999"
+  },
+  "1f4dc6a814752c92f256ab2295c71797": {
+    "filename": "captcha_00276.png",
+    "label": null,
+    "failed_attempts": [
+      "aku"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:07:52.199660"
+  },
+  "449cef224b1881b78259d201add241e5": {
+    "filename": "captcha_00277.png",
+    "label": "damr",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:08:01.648104"
+  },
+  "f1e527d9684c19ef429f8d1c4f45a241": {
+    "filename": "captcha_00278.png",
+    "label": null,
+    "failed_attempts": [
+      "puxa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:08:09.509898"
+  },
+  "d07bc13fe4a49451bd11ede15f46c9d9": {
+    "filename": "captcha_00279.png",
+    "label": null,
+    "failed_attempts": [
+      "zwaa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:08:15.670384"
+  },
+  "afea5b9956422ede728583e787572086": {
+    "filename": "captcha_00280.png",
+    "label": "fiqu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:08:21.280976"
+  },
+  "7518e22a79d6b7165499b9dbd09d9b67": {
+    "filename": "captcha_00281.png",
+    "label": "sawe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:08:31.422109"
+  },
+  "e4edf998e3197b88f50d0b59ea7891ea": {
+    "filename": "captcha_00282.png",
+    "label": null,
+    "failed_attempts": [
+      "sgy"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:08:38.787105"
+  },
+  "6ea7d9337a23af04491cf9c2c281b635": {
+    "filename": "captcha_00283.png",
+    "label": "huye",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:08:46.559660"
+  },
+  "a41a5c67c77a6d7471ab2af6325f3290": {
+    "filename": "captcha_00284.png",
+    "label": null,
+    "failed_attempts": [
+      "xoii"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:08:53.954311"
+  },
+  "cc9fc5bca9b1def4d9c4724ff0bd3db4": {
+    "filename": "captcha_00285.png",
+    "label": null,
+    "failed_attempts": [
+      "wycu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:08:58.534855"
+  },
+  "f7f2f302e6b3020d38b023c25b29e5b6": {
+    "filename": "captcha_00286.png",
+    "label": null,
+    "failed_attempts": [
+      "qegn"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:07.448380"
+  },
+  "b73ab33ec132356f920bba23a60275ba": {
+    "filename": "captcha_00287.png",
+    "label": "maci",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:09:13.207660"
+  },
+  "0e9409f29081f93a093972f856dfa138": {
+    "filename": "captcha_00288.png",
+    "label": null,
+    "failed_attempts": [
+      "wej"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:18.887502"
+  },
+  "c53a689fd432c7611463159889df54fe": {
+    "filename": "captcha_00289.png",
+    "label": "yohi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:09:25.811710"
+  },
+  "800f082ad09c804a0767b2a03cd7c239": {
+    "filename": "captcha_00290.png",
+    "label": null,
+    "failed_attempts": [
+      "cbu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:32.882080"
+  },
+  "681882ba3684bfdbb4e63b7016ad09f0": {
+    "filename": "captcha_00291.png",
+    "label": null,
+    "failed_attempts": [
+      "wno"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:37.463106"
+  },
+  "0e2569ab5cd829b3f6e6eb026d730bf3": {
+    "filename": "captcha_00292.png",
+    "label": "visi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:09:46.350954"
+  },
+  "a6fb761cb51f1b07509a49cda329695f": {
+    "filename": "captcha_00293.png",
+    "label": null,
+    "failed_attempts": [
+      "xidi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:51.273911"
+  },
+  "3db91a9dfc709850510b44b44148f731": {
+    "filename": "captcha_00294.png",
+    "label": null,
+    "failed_attempts": [
+      "pqi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:09:55.389013"
+  },
+  "276383c7a64447979ea887640a091523": {
+    "filename": "captcha_00295.png",
+    "label": "nwyx",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:10:03.375864"
+  },
+  "4276d2cf83e076138260609b0a755350": {
+    "filename": "captcha_00296.png",
+    "label": "fuae",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:10:11.910843"
+  },
+  "c6d1a7a237b29d5a18ebd94ba6d37961": {
+    "filename": "captcha_00297.png",
+    "label": null,
+    "failed_attempts": [
+      "mrm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:10:17.892994"
+  },
+  "1e3de2f9bf75fd5270cf3bc712dd3313": {
+    "filename": "captcha_00298.png",
+    "label": null,
+    "failed_attempts": [
+      "dmi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:10:22.348975"
+  },
+  "4110e1786f47483953d039e202a5472c": {
+    "filename": "captcha_00299.png",
+    "label": "zegt",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:10:29.753290"
+  },
+  "79e558dee505cf46ed9376f91b6fb3da": {
+    "filename": "captcha_00300.png",
+    "label": null,
+    "failed_attempts": [
+      "wane"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:10:36.504513"
+  },
+  "6fdb9c4c2b542e5e9b76f44089553bd7": {
+    "filename": "captcha_00301.png",
+    "label": null,
+    "failed_attempts": [
+      "nawk"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:10:40.966317"
+  },
+  "13284a4f4e4b7f0d61e1e3035cf65012": {
+    "filename": "captcha_00302.png",
+    "label": "hzxa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:10:47.074500"
+  },
+  "aa73d4608493d7bfc4027374b5cc7a9a": {
+    "filename": "captcha_00303.png",
+    "label": null,
+    "failed_attempts": [
+      "roaw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:10:51.946661"
+  },
+  "46e4fb4c77efa9b572caad06c7af39a8": {
+    "filename": "captcha_00304.png",
+    "label": "mgfe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:10:58.097917"
+  },
+  "6d33711f371afd8927f4a3a3843e2a87": {
+    "filename": "captcha_00305.png",
+    "label": "diei",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:11:06.833650"
+  },
+  "5ffdbb9bc5029b94fa2b007914f1a580": {
+    "filename": "captcha_00306.png",
+    "label": "ikdu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:11:13.196107"
+  },
+  "f63904a9396e35cf2c23637b3cb8562e": {
+    "filename": "captcha_00307.png",
+    "label": null,
+    "failed_attempts": [
+      "pwya"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:11:21.684075"
+  },
+  "5a928c6f8644cc1caac7279b8ef91edf": {
+    "filename": "captcha_00308.png",
+    "label": null,
+    "failed_attempts": [
+      "howu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:11:26.803898"
+  },
+  "882789ccd8c69a08f59a958a776674d3": {
+    "filename": "captcha_00309.png",
+    "label": "teha",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:11:34.785789"
+  },
+  "0c444105f617c3d81fdf16bef4f93f7e": {
+    "filename": "captcha_00310.png",
+    "label": null,
+    "failed_attempts": [
+      "mmsa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:11:40.484906"
+  },
+  "56e746dac497a0ebcc9e78e6c38adf5a": {
+    "filename": "captcha_00311.png",
+    "label": "oemo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:11:46.724113"
+  },
+  "24fc270e3158b15d4d3b361d43e40dd2": {
+    "filename": "captcha_00312.png",
+    "label": null,
+    "failed_attempts": [
+      "vdji"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:11:52.692378"
+  },
+  "479c7daddf6229e7e4c358fe54b8825f": {
+    "filename": "captcha_00313.png",
+    "label": null,
+    "failed_attempts": [
+      "udw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:11:59.796496"
+  },
+  "455f165bff9dfb0110af2ac1896b7cb6": {
+    "filename": "captcha_00314.png",
+    "label": "mcgm",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:12:09.847445"
+  },
+  "ef100cc5fa6f74758598bb92a66028ab": {
+    "filename": "captcha_00315.png",
+    "label": "jevi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:12:17.941724"
+  },
+  "a574c43efeb6a9fc31d161272dc016e6": {
+    "filename": "captcha_00316.png",
+    "label": null,
+    "failed_attempts": [
+      "ygdi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:12:26.117664"
+  },
+  "a4c3e9fea2c4066c0dde65540d11a97f": {
+    "filename": "captcha_00317.png",
+    "label": "gbxu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:12:34.996838"
+  },
+  "2e42b8ad502a2e3a6fd53ec840b128b3": {
+    "filename": "captcha_00318.png",
+    "label": null,
+    "failed_attempts": [
+      "mwfu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:12:40.762434"
+  },
+  "0ba6376ffeacb8564c3fd7383a47daf8": {
+    "filename": "captcha_00319.png",
+    "label": null,
+    "failed_attempts": [
+      "jgi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:12:45.424836"
+  },
+  "bb9c74553a3f421ca3db97b1138dcfb6": {
+    "filename": "captcha_00320.png",
+    "label": "iudu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:12:51.329680"
+  },
+  "5a63372892a2d2ae4d7260e5c09e3958": {
+    "filename": "captcha_00321.png",
+    "label": null,
+    "failed_attempts": [
+      "oux"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:12:58.371298"
+  },
+  "327f88605cc5d621063f4c6ec9482fdd": {
+    "filename": "captcha_00322.png",
+    "label": null,
+    "failed_attempts": [
+      "gmo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:13:03.861529"
+  },
+  "0f4afd7cb3217d730d7bda06b8612ca7": {
+    "filename": "captcha_00323.png",
+    "label": null,
+    "failed_attempts": [
+      "bxme"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:13:11.807872"
+  },
+  "a5943c6d63f7f71645b0f3fe15f5633f": {
+    "filename": "captcha_00324.png",
+    "label": "maki",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:13:19.584859"
+  },
+  "e82772c402071e17624176e661660ebd": {
+    "filename": "captcha_00325.png",
+    "label": null,
+    "failed_attempts": [
+      "fchh"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:13:25.196710"
+  },
+  "5ebdf9d321cd58b9cd4718a4fa121fef": {
+    "filename": "captcha_00326.png",
+    "label": "eefe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:13:34.782192"
+  },
+  "b7b0e551b197616666c10254386baae5": {
+    "filename": "captcha_00327.png",
+    "label": null,
+    "failed_attempts": [
+      "uena"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:13:42.765044"
+  },
+  "cc0e641da6c53faf9c61f4180d4f2f94": {
+    "filename": "captcha_00328.png",
+    "label": "guqf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:13:51.764568"
+  },
+  "4e38c0efd46144b7b84500016186236f": {
+    "filename": "captcha_00329.png",
+    "label": "hoxe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:13:58.740029"
+  },
+  "23ed1283cb88ee31c6100c4283aed268": {
+    "filename": "captcha_00330.png",
+    "label": "hiqo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:14:07.834460"
+  },
+  "dad34e088736e05169a84ad66c56a06e": {
+    "filename": "captcha_00331.png",
+    "label": null,
+    "failed_attempts": [
+      "auz"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:14:15.612970"
+  },
+  "88b8c034b23617b08791ae20a38bb560": {
+    "filename": "captcha_00332.png",
+    "label": "daqa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:14:23.368550"
+  },
+  "efcf680718a9a60b8b6f44e022d53df1": {
+    "filename": "captcha_00333.png",
+    "label": "lasl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:14:33.608804"
+  },
+  "377a72e11d6b96111131237646b2e8c7": {
+    "filename": "captcha_00334.png",
+    "label": null,
+    "failed_attempts": [
+      "wewo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:14:40.456575"
+  },
+  "1dc71b917d8cdc22ad12a0b804a6e1be": {
+    "filename": "captcha_00335.png",
+    "label": null,
+    "failed_attempts": [
+      "qqgm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:14:46.260556"
+  },
+  "2d72b02ff1f04445c430b640b2f36023": {
+    "filename": "captcha_00336.png",
+    "label": "ycno",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:14:54.422480"
+  },
+  "25f8fbe6aaa5cc9f445df260c541cde8": {
+    "filename": "captcha_00337.png",
+    "label": "ziai",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:02.198248"
+  },
+  "11a6d2ab2314462c7a547f4c2f804aa6": {
+    "filename": "captcha_00338.png",
+    "label": "piee",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:11.358205"
+  },
+  "6d770aa833582a7a3dd86ddb9ca4bb7f": {
+    "filename": "captcha_00339.png",
+    "label": "aolo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:18.035211"
+  },
+  "80138125203abd016aaf00f8ef55db9f": {
+    "filename": "captcha_00340.png",
+    "label": "jagb",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:24.802340"
+  },
+  "628340c1c458aace327e1a8d22204935": {
+    "filename": "captcha_00341.png",
+    "label": "kiae",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:35.681535"
+  },
+  "03ff31f52f85541628e999e8d4e67006": {
+    "filename": "captcha_00342.png",
+    "label": "buit",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:44.349991"
+  },
+  "ca122653ec348e0e433fccb74f3c845e": {
+    "filename": "captcha_00343.png",
+    "label": null,
+    "failed_attempts": [
+      "dge"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:15:50.623265"
+  },
+  "3addc78a80a83cca80d58a66bd56d95d": {
+    "filename": "captcha_00344.png",
+    "label": "gane",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:15:58.028536"
+  },
+  "56e9417c785d5844efaa7fa684f30f37": {
+    "filename": "captcha_00345.png",
+    "label": null,
+    "failed_attempts": [
+      "socx"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:16:04.384927"
+  },
+  "4aed7a768f2586c40b419b0a527f6ca2": {
+    "filename": "captcha_00346.png",
+    "label": null,
+    "failed_attempts": [
+      "lud"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:16:09.478551"
+  },
+  "f058dda17f9f0fc285b99638671d4210": {
+    "filename": "captcha_00347.png",
+    "label": "cees",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:16:16.896635"
+  },
+  "7be61f485fb46001e92bc157e14441b3": {
+    "filename": "captcha_00348.png",
+    "label": "wieo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:16:25.683248"
+  },
+  "7f6ab58744a5e1dbb51839b1e1b486ca": {
+    "filename": "captcha_00349.png",
+    "label": null,
+    "failed_attempts": [
+      "wgbz"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:16:32.002744"
+  },
+  "1559f0baae2dc38b6b4ba7d1d7f71d34": {
+    "filename": "captcha_00350.png",
+    "label": "qiot",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:16:39.553660"
+  },
+  "cc2ce3c400ee5db129155923f25b1b41": {
+    "filename": "captcha_00351.png",
+    "label": "pnse",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:16:46.470801"
+  },
+  "2806b1ca8bfa318f604979ccc33e4a72": {
+    "filename": "captcha_00352.png",
+    "label": "zuqe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:16:52.839234"
+  },
+  "5083c430e3d18c77e109fa491a181e39": {
+    "filename": "captcha_00353.png",
+    "label": "nefe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:00.532852"
+  },
+  "22696e9ddbe6d77ac3dcf57447940961": {
+    "filename": "captcha_00354.png",
+    "label": null,
+    "failed_attempts": [
+      "gapi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:17:06.148767"
+  },
+  "e08a3252d0b2d50c49283b6396bd963b": {
+    "filename": "captcha_00355.png",
+    "label": "coze",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:13.414498"
+  },
+  "f9441775915c76ca946b3a6c4c42ee9b": {
+    "filename": "captcha_00356.png",
+    "label": "rgwe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:20.569016"
+  },
+  "f45fb6db98f403349b55ac502881f889": {
+    "filename": "captcha_00357.png",
+    "label": null,
+    "failed_attempts": [
+      "fei"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:17:25.449769"
+  },
+  "14377c6a524aba98576bb82bf422da16": {
+    "filename": "captcha_00358.png",
+    "label": null,
+    "failed_attempts": [
+      "rlwu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:17:29.825233"
+  },
+  "f463797801b83748461fdb190b9810c9": {
+    "filename": "captcha_00359.png",
+    "label": "bewb",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:35.886261"
+  },
+  "67832bf1cd6cef73276a2061bd03d8c4": {
+    "filename": "captcha_00360.png",
+    "label": "subo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:42.164413"
+  },
+  "eff4abc8f39721ba07c436853cfcd1a7": {
+    "filename": "captcha_00361.png",
+    "label": null,
+    "failed_attempts": [
+      "neco"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:17:47.658543"
+  },
+  "9418dc082a514659add0c58546d13da9": {
+    "filename": "captcha_00362.png",
+    "label": "meea",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:17:53.415687"
+  },
+  "6dac864c35bdc53110469edf4feefbc5": {
+    "filename": "captcha_00363.png",
+    "label": "hafz",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:00.494570"
+  },
+  "598caad467d96eed3f8efdb900bd46cc": {
+    "filename": "captcha_00364.png",
+    "label": null,
+    "failed_attempts": [
+      "wwu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:18:04.982102"
+  },
+  "81d86775cf529e6f5d8af177ed1250c2": {
+    "filename": "captcha_00365.png",
+    "label": "dwja",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:10.250366"
+  },
+  "59b7da00e9489f52b0b4429bb6f85d81": {
+    "filename": "captcha_00366.png",
+    "label": "cayn",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:17.384785"
+  },
+  "f5b6f8b6db2d9d216029e9eb25cdf28b": {
+    "filename": "captcha_00367.png",
+    "label": "cigo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:23.304007"
+  },
+  "253195d8751584f4b63d04d6df71596c": {
+    "filename": "captcha_00368.png",
+    "label": null,
+    "failed_attempts": [
+      "ipa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:18:31.798594"
+  },
+  "995e832a05a392f5ea99c2e0d1170a46": {
+    "filename": "captcha_00369.png",
+    "label": "lfjs",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:38.193917"
+  },
+  "076d9733cc190296a117093e5d0afc66": {
+    "filename": "captcha_00370.png",
+    "label": "jono",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:18:45.726830"
+  },
+  "6d54a15087b7a362bbedcc30bd8b2dda": {
+    "filename": "captcha_00371.png",
+    "label": null,
+    "failed_attempts": [
+      "mpu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:18:50.545175"
+  },
+  "3d6bbef7d2375e779c3423987b1618f4": {
+    "filename": "captcha_00372.png",
+    "label": null,
+    "failed_attempts": [
+      "hiz"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:18:55.478088"
+  },
+  "99c2c9afa1e541237cbe5a08eca68f44": {
+    "filename": "captcha_00373.png",
+    "label": "tfau",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:19:05.296182"
+  },
+  "44ce79a80e9369188062d5e129a2c228": {
+    "filename": "captcha_00374.png",
+    "label": null,
+    "failed_attempts": [
+      "jin"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:19:13.472389"
+  },
+  "8a8c4a5f217aba61ae31a73934d8780b": {
+    "filename": "captcha_00375.png",
+    "label": "coua",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:19:22.753777"
+  },
+  "d3f90524e0f00c7318ed55bd2a990d26": {
+    "filename": "captcha_00376.png",
+    "label": "zotf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:19:30.348527"
+  },
+  "c321d99d6b30d4f7879837f56c570af4": {
+    "filename": "captcha_00377.png",
+    "label": null,
+    "failed_attempts": [
+      "mem"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:19:35.020194"
+  },
+  "e6a7f1d5a0fe9e5c01f08b8ebaec1bde": {
+    "filename": "captcha_00378.png",
+    "label": null,
+    "failed_attempts": [
+      "lued"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:19:39.262517"
+  },
+  "e44a179cb72b8d38f9edd7f53ca3870e": {
+    "filename": "captcha_00379.png",
+    "label": "cinh",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:19:47.566953"
+  },
+  "12538ed901a65839b507204d36fae38f": {
+    "filename": "captcha_00380.png",
+    "label": "nayg",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:19:59.801642"
+  },
+  "0596f958fd6c0ad6d02a7f92f531a502": {
+    "filename": "captcha_00381.png",
+    "label": null,
+    "failed_attempts": [
+      "riu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:20:04.276736"
+  },
+  "b5a237805f7397684a9fc3dce9c31057": {
+    "filename": "captcha_00382.png",
+    "label": "piba",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:20:09.566050"
+  },
+  "8b37e923c4aecc4b11f482c826224a84": {
+    "filename": "captcha_00383.png",
+    "label": "yapo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:20:15.128066"
+  },
+  "983e488168b3a9e1c73a1429bbaabc66": {
+    "filename": "captcha_00384.png",
+    "label": null,
+    "failed_attempts": [
+      "msa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:20:21.670925"
+  },
+  "e4a346ad42a97cbb0ccff47ded272eb3": {
+    "filename": "captcha_00385.png",
+    "label": null,
+    "failed_attempts": [
+      "iica"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:20:26.463444"
+  },
+  "273c17d7bae917b37252c26c4577f865": {
+    "filename": "captcha_00386.png",
+    "label": "jidi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:20:32.983277"
+  },
+  "e9e480dfcdd17d412116a5ec97a3cd27": {
+    "filename": "captcha_00387.png",
+    "label": null,
+    "failed_attempts": [
+      "ihu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:20:39.262527"
+  },
+  "c9aeb9acb7356c0efb4b02f8bdbfb3d9": {
+    "filename": "captcha_00388.png",
+    "label": "afwj",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:20:45.396147"
+  },
+  "682fe833d6968ea10d7072313a5e23b5": {
+    "filename": "captcha_00389.png",
+    "label": "tiaq",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:20:53.836090"
+  },
+  "4c2f61240aea3bbf559a5c30cea5b8e3": {
+    "filename": "captcha_00390.png",
+    "label": "wpwi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:12.342981"
+  },
+  "ea25539e8c01a23615402e37dfbaf97d": {
+    "filename": "captcha_00391.png",
+    "label": "sice",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:22.252995"
+  },
+  "1a0ae01dee29384decd1b1a53ebad6dd": {
+    "filename": "captcha_00392.png",
+    "label": "ohyo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:31.670466"
+  },
+  "6bf7775516b63d53365a8d01f65cd4bf": {
+    "filename": "captcha_00393.png",
+    "label": "sygo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:38.529407"
+  },
+  "559448e5c34e17e24823993f192aa3f1": {
+    "filename": "captcha_00394.png",
+    "label": "iuga",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:46.562201"
+  },
+  "7be79798d6d0009fa0039d8725bc3337": {
+    "filename": "captcha_00395.png",
+    "label": null,
+    "failed_attempts": [
+      "uuwa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:21:52.070599"
+  },
+  "bae14636f72cce34989161c29d1e1b14": {
+    "filename": "captcha_00396.png",
+    "label": "sexe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:21:57.505953"
+  },
+  "dc17e30717a71520041b566d288b1927": {
+    "filename": "captcha_00397.png",
+    "label": "bozi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:06.445200"
+  },
+  "20ab23fb160bf41c2a09b396cfee8782": {
+    "filename": "captcha_00398.png",
+    "label": null,
+    "failed_attempts": [
+      "couu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:22:10.938348"
+  },
+  "8a10d82a80fb4c360a1555661012657e": {
+    "filename": "captcha_00399.png",
+    "label": "kuae",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:16.092605"
+  },
+  "148a54eb283b7fde85075530e06d197b": {
+    "filename": "captcha_00400.png",
+    "label": null,
+    "failed_attempts": [
+      "xiie"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:22:20.553217"
+  },
+  "07a29b0f73c3c6c9903b01e16514e2d6": {
+    "filename": "captcha_00401.png",
+    "label": "txha",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:30.444100"
+  },
+  "73a4654e1d4673249ec44aec6b0e7417": {
+    "filename": "captcha_00402.png",
+    "label": "dusn",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:37.747349"
+  },
+  "5716343238186c548278c91b083a906f": {
+    "filename": "captcha_00403.png",
+    "label": null,
+    "failed_attempts": [
+      "vid"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:22:43.476259"
+  },
+  "0c35ef79fcab70d662bd897455fc90f4": {
+    "filename": "captcha_00404.png",
+    "label": "peve",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:49.322002"
+  },
+  "84442b0838656818c076069770018fd8": {
+    "filename": "captcha_00405.png",
+    "label": "fora",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:22:59.164480"
+  },
+  "c8a407223260d23905e9e96d8bdae144": {
+    "filename": "captcha_00406.png",
+    "label": "crye",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:23:05.158366"
+  },
+  "168c244d70c3145e4eb9963e06d6fb1e": {
+    "filename": "captcha_00407.png",
+    "label": "nlro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:23:11.552416"
+  },
+  "bc519ac110694a1873fa0ca7749f92b6": {
+    "filename": "captcha_00408.png",
+    "label": "xuko",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:23:17.862781"
+  },
+  "900fe0fce5f7ff1c43ff1e6bc3018b37": {
+    "filename": "captcha_00409.png",
+    "label": "hixi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:23:23.859790"
+  },
+  "e56378f5d5918e4a0f7f1e4e1d0e2db0": {
+    "filename": "captcha_00410.png",
+    "label": null,
+    "failed_attempts": [
+      "txo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:28.667106"
+  },
+  "c012aadf0439db79c6d7ac83277fc85c": {
+    "filename": "captcha_00411.png",
+    "label": null,
+    "failed_attempts": [
+      "fiwa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:32.869723"
+  },
+  "d4295d2f119b05d93530293bf1575105": {
+    "filename": "captcha_00412.png",
+    "label": null,
+    "failed_attempts": [
+      "qji"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:36.934457"
+  },
+  "d70ac45d457534cfe50b23d7dfdf484c": {
+    "filename": "captcha_00413.png",
+    "label": null,
+    "failed_attempts": [
+      "hgma"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:41.100331"
+  },
+  "be567abdffa87dc1069e535e4b3d945a": {
+    "filename": "captcha_00414.png",
+    "label": "pixi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:23:46.479011"
+  },
+  "5637cf9b0b3175bd444bff4dc6d15308": {
+    "filename": "captcha_00415.png",
+    "label": null,
+    "failed_attempts": [
+      "byje"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:50.889004"
+  },
+  "2e2ca1a1056316294fc2c09139ef8016": {
+    "filename": "captcha_00416.png",
+    "label": null,
+    "failed_attempts": [
+      "bwa"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:54.907037"
+  },
+  "781271c72b9bf51075a2108bb2803f0e": {
+    "filename": "captcha_00417.png",
+    "label": null,
+    "failed_attempts": [
+      "zsuo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:23:58.877079"
+  },
+  "1322ad6e24fef908975dc658b679c91a": {
+    "filename": "captcha_00418.png",
+    "label": "aice",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:03.963904"
+  },
+  "dbc7f35881073b9d5c1564bc17badb7e": {
+    "filename": "captcha_00419.png",
+    "label": "exjo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:09.431302"
+  },
+  "4f875a60ef6af657827cb12e729de790": {
+    "filename": "captcha_00420.png",
+    "label": "bohf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:15.294844"
+  },
+  "18db5493cef31543371aedb5233f8310": {
+    "filename": "captcha_00421.png",
+    "label": "tiqa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:23.428853"
+  },
+  "09c658bce211725204ee033ab226e754": {
+    "filename": "captcha_00422.png",
+    "label": "fodo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:34.074919"
+  },
+  "08eb3b2346c3e20b0046e0f4f3813116": {
+    "filename": "captcha_00423.png",
+    "label": null,
+    "failed_attempts": [
+      "hoze"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:24:40.111063"
+  },
+  "a386bd3d8aafca88690aca1c9615f8d9": {
+    "filename": "captcha_00424.png",
+    "label": "jesi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:47.971412"
+  },
+  "aa508bad42604f4afa21184c7d46c1aa": {
+    "filename": "captcha_00425.png",
+    "label": "tptu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:24:55.191374"
+  },
+  "9a357ddeda246b98c4e309963c891237": {
+    "filename": "captcha_00426.png",
+    "label": "dugo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:25:02.979808"
+  },
+  "6af62e22f394874a4f87272828a94617": {
+    "filename": "captcha_00427.png",
+    "label": "piue",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:25:10.660147"
+  },
+  "3050532a1b58098d740efbea2a035d3c": {
+    "filename": "captcha_00428.png",
+    "label": "lovu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:25:17.778526"
+  },
+  "17e2b82fff0aa13657f69c2286458c3a": {
+    "filename": "captcha_00429.png",
+    "label": null,
+    "failed_attempts": [
+      "qzfu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:25:22.545750"
+  },
+  "a8647ce5dfa166aba21444368fef864c": {
+    "filename": "captcha_00430.png",
+    "label": null,
+    "failed_attempts": [
+      "pdo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:25:26.705372"
+  },
+  "9894392c2daef5f2d6e11efae8b14333": {
+    "filename": "captcha_00431.png",
+    "label": "foje",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:25:32.580412"
+  },
+  "b513c9cdbad4c82f9e9f6acb8ffb3c66": {
+    "filename": "captcha_00432.png",
+    "label": null,
+    "failed_attempts": [
+      "keus"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:25:36.822013"
+  },
+  "e23a3b51561b962bdf988d125413c134": {
+    "filename": "captcha_00433.png",
+    "label": null,
+    "failed_attempts": [
+      "mmbr"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:25:41.763841"
+  },
+  "72c8824edf84601da7def84514d02442": {
+    "filename": "captcha_00434.png",
+    "label": "lawl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:25:49.605454"
+  },
+  "3722cb9c9c86395808173d579ad10d5f": {
+    "filename": "captcha_00435.png",
+    "label": null,
+    "failed_attempts": [
+      "eicp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:25:56.160167"
+  },
+  "b8ed3a013483c6d52ecf9f028c26fe38": {
+    "filename": "captcha_00436.png",
+    "label": null,
+    "failed_attempts": [
+      "rle"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:26:00.445737"
+  },
+  "f4920e867e5579d66770b06d4543da73": {
+    "filename": "captcha_00437.png",
+    "label": "woro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:08.000230"
+  },
+  "37617e1648c64bdcbc353e47c2045291": {
+    "filename": "captcha_00438.png",
+    "label": "rupo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:14.520749"
+  },
+  "2f92a34cf0e15d1138c82f785935e285": {
+    "filename": "captcha_00439.png",
+    "label": "buze",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:20.461989"
+  },
+  "878404ca0b9b11a04816e98d24dbe954": {
+    "filename": "captcha_00440.png",
+    "label": "jejl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:29.135493"
+  },
+  "c5f7c79cef92829c499bf37885e4237b": {
+    "filename": "captcha_00441.png",
+    "label": "ueme",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:35.840412"
+  },
+  "2bd6ad5ce12562169e8aae0416915709": {
+    "filename": "captcha_00442.png",
+    "label": null,
+    "failed_attempts": [
+      "waoq"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:26:39.942905"
+  },
+  "450b0c7b426a663440d6b8f26dc71cf2": {
+    "filename": "captcha_00443.png",
+    "label": "uiti",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:44.902302"
+  },
+  "4b2cb5849dec3c1dcbd964894908f77f": {
+    "filename": "captcha_00444.png",
+    "label": "peza",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:50.118705"
+  },
+  "a57a96670067efc7ac59fb90396d8982": {
+    "filename": "captcha_00445.png",
+    "label": null,
+    "failed_attempts": [
+      "heae"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:26:54.227022"
+  },
+  "28d8e514811665c88efedaf449f7d16b": {
+    "filename": "captcha_00446.png",
+    "label": "booa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:26:59.672883"
+  },
+  "01a03ac0d925da4fea9ea492d216cbe3": {
+    "filename": "captcha_00447.png",
+    "label": "hesa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:05.945017"
+  },
+  "11dc17d39da2058750242932335a0472": {
+    "filename": "captcha_00448.png",
+    "label": "vocu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:15.634712"
+  },
+  "ce221fbced3ae3811d359ed97686aeda": {
+    "filename": "captcha_00449.png",
+    "label": "heco",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:21.297737"
+  },
+  "d8b6b959b1348b066cce12890add67a1": {
+    "filename": "captcha_00450.png",
+    "label": "hkle",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:26.609377"
+  },
+  "1bdd829b370fa2c56d6b8a18a9343043": {
+    "filename": "captcha_00451.png",
+    "label": "xepe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:32.509767"
+  },
+  "27150c6acdcd603badf27261bf36646f": {
+    "filename": "captcha_00452.png",
+    "label": null,
+    "failed_attempts": [
+      "miw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:27:37.038890"
+  },
+  "2537af9d6016e72334b3e2d2535c7059": {
+    "filename": "captcha_00453.png",
+    "label": "hpyi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:42.363052"
+  },
+  "24ee9dcf1253691da61285fae9ece662": {
+    "filename": "captcha_00454.png",
+    "label": "lfea",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:27:53.702295"
+  },
+  "eb95fab95a5884a061ab43988107fff7": {
+    "filename": "captcha_00455.png",
+    "label": "fofu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:28:04.688516"
+  },
+  "7aaa25a0fb4763339a7e9270bdc79983": {
+    "filename": "captcha_00456.png",
+    "label": null,
+    "failed_attempts": [
+      "pei"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:11.666794"
+  },
+  "c070b355324653a019254622c158ce81": {
+    "filename": "captcha_00457.png",
+    "label": "fumu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:28:17.533937"
+  },
+  "422dbdaf56a36e12e5844ff6bb0c9664": {
+    "filename": "captcha_00458.png",
+    "label": null,
+    "failed_attempts": [
+      "bli"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:23.659070"
+  },
+  "8d9f6e3f59c47e603d622e431f6ae5ee": {
+    "filename": "captcha_00459.png",
+    "label": null,
+    "failed_attempts": [
+      "ywe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:28.214979"
+  },
+  "43bc2bd449db5c0808d41ebb86e11121": {
+    "filename": "captcha_00460.png",
+    "label": "zika",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:28:34.060876"
+  },
+  "e1f8bde08463c8751c205c6280193a76": {
+    "filename": "captcha_00461.png",
+    "label": "auzo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:28:40.999096"
+  },
+  "cdd5e4039638a39fb0413866262da429": {
+    "filename": "captcha_00462.png",
+    "label": null,
+    "failed_attempts": [
+      "duye"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:46.118929"
+  },
+  "816b0da6ec7a94362fade4f4b1d3b109": {
+    "filename": "captcha_00463.png",
+    "label": null,
+    "failed_attempts": [
+      "mibp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:50.623395"
+  },
+  "028b5ad2f1533219915e5e973ead9035": {
+    "filename": "captcha_00464.png",
+    "label": null,
+    "failed_attempts": [
+      "idi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:28:54.718109"
+  },
+  "e45f9e967764d33ba7dcc2126a8433b2": {
+    "filename": "captcha_00465.png",
+    "label": "luss",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:01.999058"
+  },
+  "e9bc43abc3fcfbd124de58cf7991df5a": {
+    "filename": "captcha_00466.png",
+    "label": "ryki",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:10.429334"
+  },
+  "0ae98dc505447fb3a8550e5aa3fb8cba": {
+    "filename": "captcha_00467.png",
+    "label": null,
+    "failed_attempts": [
+      "mkyu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:29:16.349569"
+  },
+  "a139445e659bf418b606193c42b94503": {
+    "filename": "captcha_00468.png",
+    "label": null,
+    "failed_attempts": [
+      "vju"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:29:21.667336"
+  },
+  "4ec6be3e722ff528e0fb0f6444368505": {
+    "filename": "captcha_00469.png",
+    "label": null,
+    "failed_attempts": [
+      "pmwo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:29:26.685464"
+  },
+  "73fefc9f30a901306ef4a25834cf2757": {
+    "filename": "captcha_00470.png",
+    "label": "wexa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:33.614722"
+  },
+  "016bb8e96a9f5ec52a310d771d715226": {
+    "filename": "captcha_00471.png",
+    "label": null,
+    "failed_attempts": [
+      "wosm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:29:38.934377"
+  },
+  "45f76dec52b7acd52186e4d4ccc6fee1": {
+    "filename": "captcha_00472.png",
+    "label": "gufa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:47.045789"
+  },
+  "03345df07afe39ea84e7a3128d9e0892": {
+    "filename": "captcha_00473.png",
+    "label": "dube",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:53.225029"
+  },
+  "123175ca4a10288c221e084ccf4600b0": {
+    "filename": "captcha_00474.png",
+    "label": "btyi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:29:58.682918"
+  },
+  "3cf5e5bf5ec65b6ceab0b53b6ba7e2cc": {
+    "filename": "captcha_00475.png",
+    "label": "uiwe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:04.687433"
+  },
+  "c996aab6d74bb6f8b8c7c306055a72c7": {
+    "filename": "captcha_00476.png",
+    "label": null,
+    "failed_attempts": [
+      "hod"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:08.683674"
+  },
+  "9d672ff0fddaffbc2de0477956c936b5": {
+    "filename": "captcha_00477.png",
+    "label": "cipo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:14.222724"
+  },
+  "139040624268448307ccdd30bf60998d": {
+    "filename": "captcha_00478.png",
+    "label": "yzmr",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:20.200661"
+  },
+  "616f9f62578be6af64c0ca0ea624a8ff": {
+    "filename": "captcha_00479.png",
+    "label": null,
+    "failed_attempts": [
+      "gmm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:24.469638"
+  },
+  "8ad4b3ee73aa3a8399943100dba0b349": {
+    "filename": "captcha_00480.png",
+    "label": null,
+    "failed_attempts": [
+      "leep"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:28.348890"
+  },
+  "461724fb2cda2c7d3f5efda9447d5350": {
+    "filename": "captcha_00481.png",
+    "label": null,
+    "failed_attempts": [
+      "fw"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:32.184608"
+  },
+  "ecdd666339df882b35c3fcdb0c8efdb3": {
+    "filename": "captcha_00482.png",
+    "label": "puco",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:36.505874"
+  },
+  "5e5f9858152d7337ca3178c51d03b927": {
+    "filename": "captcha_00483.png",
+    "label": "crso",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:42.276254"
+  },
+  "fa8e65946e267268382fa882dc1dd96b": {
+    "filename": "captcha_00484.png",
+    "label": null,
+    "failed_attempts": [
+      "tyj"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:46.235346"
+  },
+  "f81e99c29b23f0274910e10b31ba6da0": {
+    "filename": "captcha_00485.png",
+    "label": null,
+    "failed_attempts": [
+      "xuu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:30:50.318360"
+  },
+  "f6a415f040d69bc70804bb0a2646aa99": {
+    "filename": "captcha_00486.png",
+    "label": "xizb",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:30:56.084274"
+  },
+  "060d07e826431592b9f4c6af809a8118": {
+    "filename": "captcha_00487.png",
+    "label": "zoje",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:31:02.792153"
+  },
+  "3f6b17dd69ca3ddc9aa65bae7d6fb4af": {
+    "filename": "captcha_00488.png",
+    "label": "eiro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:31:10.068920"
+  },
+  "8230ffd5e30619644a32c6cc7aa2093e": {
+    "filename": "captcha_00489.png",
+    "label": "kape",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:31:19.714572"
+  },
+  "4d736ce38cda1c06dd8314f250a670a7": {
+    "filename": "captcha_00490.png",
+    "label": null,
+    "failed_attempts": [
+      "daru"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:31:25.086320"
+  },
+  "3f55bd5685922f16fb13c290c9d5e4ea": {
+    "filename": "captcha_00491.png",
+    "label": "bioa",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:31:31.246018"
+  },
+  "50c1802d80ac1b5a1f8b35f5c79dce4c": {
+    "filename": "captcha_00492.png",
+    "label": null,
+    "failed_attempts": [
+      "qosx"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:31:37.995359"
+  },
+  "6be7372347e6fe02f7c36f6ab6725695": {
+    "filename": "captcha_00493.png",
+    "label": null,
+    "failed_attempts": [
+      "xju"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:31:43.152088"
+  },
+  "ed6879370a199ad25460efdcf69365bf": {
+    "filename": "captcha_00494.png",
+    "label": "beei",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:31:49.537457"
+  },
+  "342bb0efb667dfabbf1f0a9f4cbd842c": {
+    "filename": "captcha_00495.png",
+    "label": null,
+    "failed_attempts": [
+      "eamo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:31:54.300516"
+  },
+  "f64bc4acdab733745590f8629a1a0275": {
+    "filename": "captcha_00496.png",
+    "label": null,
+    "failed_attempts": [
+      "fumi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:31:58.402822"
+  },
+  "38b65f94c2e6560e1ca08fae53575fbc": {
+    "filename": "captcha_00497.png",
+    "label": null,
+    "failed_attempts": [
+      "xedi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:32:02.340019"
+  },
+  "09cf1580712004abbf3abff9ee768327": {
+    "filename": "captcha_00498.png",
+    "label": null,
+    "failed_attempts": [
+      "wouo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:32:06.369338"
+  },
+  "37bcf6033e993bd23727549a8f25c95f": {
+    "filename": "captcha_00499.png",
+    "label": "fqbe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:32:12.958241"
+  },
+  "a3635d3fe1be41e4579705f3e1c0712d": {
+    "filename": "captcha_00500.png",
+    "label": null,
+    "failed_attempts": [
+      "mpo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:32:21.666264"
+  },
+  "81a9a71fe317afdfe6931561394813ae": {
+    "filename": "captcha_00501.png",
+    "label": "wume",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:32:33.359914"
+  },
+  "95184904477723e02186c43e8d8a0c98": {
+    "filename": "captcha_00502.png",
+    "label": null,
+    "failed_attempts": [
+      "jza"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:32:41.690638"
+  },
+  "a4cdb20f6168f0b6f6e4516f7afb800d": {
+    "filename": "captcha_00503.png",
+    "label": "dedi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:32:49.277304"
+  },
+  "3a0e9f3e05fc8db9704c45eb8aa2313d": {
+    "filename": "captcha_00504.png",
+    "label": "nare",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:32:56.802119"
+  },
+  "a789ea4ac6b41aee1e0163543373226c": {
+    "filename": "captcha_00505.png",
+    "label": "esme",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:03.237284"
+  },
+  "18d25c2fe59a1b28ada13d5a4eaa17df": {
+    "filename": "captcha_00506.png",
+    "label": "qipi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:09.168997"
+  },
+  "34e5a9ceeaf6c20fd0342e0e777fb2c8": {
+    "filename": "captcha_00507.png",
+    "label": "wouu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:14.454115"
+  },
+  "e47cc4f79bf948257aefc2407360a435": {
+    "filename": "captcha_00508.png",
+    "label": "pizd",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:20.239639"
+  },
+  "66e1ff559a7cd4ecdf0b367c3f5f1e26": {
+    "filename": "captcha_00509.png",
+    "label": "augu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:27.864978"
+  },
+  "a7451dd05c23d4d0c1783be5b18fb1b1": {
+    "filename": "captcha_00510.png",
+    "label": null,
+    "failed_attempts": [
+      "aue"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:33:32.689402"
+  },
+  "fcdf866c93862365602d942c1dfa7fa1": {
+    "filename": "captcha_00511.png",
+    "label": "jxci",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:37.834322"
+  },
+  "11c7ac9b34a2bf48f0c034904dea010d": {
+    "filename": "captcha_00512.png",
+    "label": "teak",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:43.411939"
+  },
+  "0048649bb1f3f7c36072f3f45b7c0e47": {
+    "filename": "captcha_00513.png",
+    "label": null,
+    "failed_attempts": [
+      "gagi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:33:47.879670"
+  },
+  "0e984a77b2e1c30a22ca0a2b05facbd8": {
+    "filename": "captcha_00514.png",
+    "label": null,
+    "failed_attempts": [
+      "jpu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:33:52.797424"
+  },
+  "b32562a1cff9b544f0a419b4d580b557": {
+    "filename": "captcha_00515.png",
+    "label": "moro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:33:59.070125"
+  },
+  "6059fa1b22077593e707aef26b1b57d7": {
+    "filename": "captcha_00516.png",
+    "label": null,
+    "failed_attempts": [
+      "mje"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:34:03.074611"
+  },
+  "6b0e1988ae6ee14febe1cb26b8a441c3": {
+    "filename": "captcha_00517.png",
+    "label": "qers",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:08.231575"
+  },
+  "e8f737785781a902337180cbc4e407c7": {
+    "filename": "captcha_00518.png",
+    "label": "lewp",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:13.313736"
+  },
+  "4f6cea5df32232eab580931823cdac3d": {
+    "filename": "captcha_00519.png",
+    "label": "zoka",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:18.496536"
+  },
+  "737e28f7a0c6a3e20e7c1b687649a37c": {
+    "filename": "captcha_00520.png",
+    "label": "yuri",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:23.655751"
+  },
+  "3fa77b01f8a99a935bf559c33090846f": {
+    "filename": "captcha_00521.png",
+    "label": null,
+    "failed_attempts": [
+      "yer"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:34:27.613618"
+  },
+  "25991aabbe737173888ac4bcc36dce40": {
+    "filename": "captcha_00522.png",
+    "label": "yesu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:31.839616"
+  },
+  "4c1a80959fd8b7643d566a8053a9e440": {
+    "filename": "captcha_00523.png",
+    "label": "soxh",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:36.990652"
+  },
+  "9d8b5bad490684b0083b180badec94c9": {
+    "filename": "captcha_00524.png",
+    "label": "ieau",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:42.118530"
+  },
+  "6ab26217b5790ddf9a2c039aec1fd3db": {
+    "filename": "captcha_00525.png",
+    "label": null,
+    "failed_attempts": [
+      "moee"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:34:45.988038"
+  },
+  "24d306bd0fe12e8ab29fc0ffaec4b169": {
+    "filename": "captcha_00526.png",
+    "label": "qfch",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:34:51.045440"
+  },
+  "47104c30fc7209d607dea6aae47b20b8": {
+    "filename": "captcha_00527.png",
+    "label": null,
+    "failed_attempts": [
+      "dzu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:34:56.165253"
+  },
+  "ec6d40e4dee0ca8c5099504d4a6c1999": {
+    "filename": "captcha_00528.png",
+    "label": "nqhi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:01.897757"
+  },
+  "d4c1a9f7dc9705aef5395c0b0e555d2c": {
+    "filename": "captcha_00529.png",
+    "label": "rode",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:08.961407"
+  },
+  "3863855ea5d492e13c0543addc5c3359": {
+    "filename": "captcha_00530.png",
+    "label": null,
+    "failed_attempts": [
+      "yad"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:35:13.687176"
+  },
+  "693d2d48b9c0101fa0edc154dd34216f": {
+    "filename": "captcha_00531.png",
+    "label": "fozf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:18.981307"
+  },
+  "1e5a145d7c58c13fc0e8d138cf2218b0": {
+    "filename": "captcha_00532.png",
+    "label": "fuze",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:24.223735"
+  },
+  "d75c2d4f0b23f543126031e6b11a5453": {
+    "filename": "captcha_00533.png",
+    "label": "lbva",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:29.322236"
+  },
+  "1fead91dcffb21569a7526f32ee45c93": {
+    "filename": "captcha_00534.png",
+    "label": "teei",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:34.857229"
+  },
+  "3f13c02365023e3b045a29da282d528f": {
+    "filename": "captcha_00535.png",
+    "label": null,
+    "failed_attempts": [
+      "vhe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:35:38.863604"
+  },
+  "6024fc29bc9648f7725394096444e5ba": {
+    "filename": "captcha_00536.png",
+    "label": "saro",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:44.221231"
+  },
+  "47b0a90b8ef87673195be8c6b59eec7d": {
+    "filename": "captcha_00537.png",
+    "label": "tula",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:49.794203"
+  },
+  "5ac4fb2a3f56e6f6e0df1c295906769b": {
+    "filename": "captcha_00538.png",
+    "label": "qusu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:35:55.595635"
+  },
+  "5d4595d8d36458bbb01d7a2362afa95e": {
+    "filename": "captcha_00539.png",
+    "label": null,
+    "failed_attempts": [
+      "toe"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:01.192023"
+  },
+  "f2872c6f5580d6b20c51fbfb3807ea05": {
+    "filename": "captcha_00540.png",
+    "label": null,
+    "failed_attempts": [
+      "rve"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:05.191112"
+  },
+  "f5f6ed465d5d0e3e60f0c4c8018e4b24": {
+    "filename": "captcha_00541.png",
+    "label": "kifu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:10.194266"
+  },
+  "85e7b7afb7d176d20bb8873ad3ab4b81": {
+    "filename": "captcha_00542.png",
+    "label": "jawi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:15.350136"
+  },
+  "f4346caf01896419520cd42dec46f47f": {
+    "filename": "captcha_00543.png",
+    "label": null,
+    "failed_attempts": [
+      "cpvi"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:19.218460"
+  },
+  "c6e3d12dac30fa2d0a189557b8217bd6": {
+    "filename": "captcha_00544.png",
+    "label": "qelo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:24.511351"
+  },
+  "095e8bfde6400cce3bef9f8fd8c71b52": {
+    "filename": "captcha_00545.png",
+    "label": null,
+    "failed_attempts": [
+      "rume"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:29.082474"
+  },
+  "c7c930fc375ed300e77dc445a339a081": {
+    "filename": "captcha_00546.png",
+    "label": null,
+    "failed_attempts": [
+      "iome"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:32.150050"
+  },
+  "75c73d16acef396578a1462270f56531": {
+    "filename": "captcha_00547.png",
+    "label": "lzha",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:37.321389"
+  },
+  "fea1b1fe7eeacf76c8052ae48560ed08": {
+    "filename": "captcha_00548.png",
+    "label": "auwe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:42.477728"
+  },
+  "654c97741b59be4f92038a959336acb0": {
+    "filename": "captcha_00549.png",
+    "label": null,
+    "failed_attempts": [
+      "oomu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:36:46.416609"
+  },
+  "70b5f5ce497b19c4e2efdb9ba94bd881": {
+    "filename": "captcha_00550.png",
+    "label": "yola",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:51.718840"
+  },
+  "2644f3ed84bb251fc9af4222871bab42": {
+    "filename": "captcha_00551.png",
+    "label": "mafe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:36:56.829898"
+  },
+  "5bb04b4da54849d6deaa0bec2756cbfe": {
+    "filename": "captcha_00552.png",
+    "label": "ldba",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:02.433121"
+  },
+  "18470f1491d17226c27cb545792efb25": {
+    "filename": "captcha_00553.png",
+    "label": "xoma",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:10.457772"
+  },
+  "cabfe48469747ca6f3a0abf9e719f558": {
+    "filename": "captcha_00554.png",
+    "label": null,
+    "failed_attempts": [
+      "momu"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:37:14.997185"
+  },
+  "d11105cdde4808d6dfcaf93931251f51": {
+    "filename": "captcha_00555.png",
+    "label": null,
+    "failed_attempts": [
+      "siap"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:37:19.730659"
+  },
+  "3ec6cb5fa599d600475e2902c007f57b": {
+    "filename": "captcha_00556.png",
+    "label": "iodo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:25.136389"
+  },
+  "e6e1072861f6c3c9f3efa3e994083e0a": {
+    "filename": "captcha_00557.png",
+    "label": "tupm",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:30.540762"
+  },
+  "7ab05db546f650a66c85dd87d0a949df": {
+    "filename": "captcha_00558.png",
+    "label": "yugi",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:35.714000"
+  },
+  "c57e9330ad464e1af81a458da19b9a97": {
+    "filename": "captcha_00559.png",
+    "label": null,
+    "failed_attempts": [
+      "lola"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:37:39.642141"
+  },
+  "d6fa928411975fc45477affc2e31f29f": {
+    "filename": "captcha_00560.png",
+    "label": "ssmo",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:46.493570"
+  },
+  "10a5cde9bf7a158e1879dca7b049c619": {
+    "filename": "captcha_00561.png",
+    "label": "depe",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:37:52.762944"
+  },
+  "1339d79fc526b5dea7d61ac502564145": {
+    "filename": "captcha_00562.png",
+    "label": "jbja",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:38:00.041321"
+  },
+  "4b7aeaeea89da5581eb1a8f0885e3f26": {
+    "filename": "captcha_00563.png",
+    "label": "rays",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:38:05.425898"
+  },
+  "764d3a9601fbffc99f0da688301526b4": {
+    "filename": "captcha_00564.png",
+    "label": null,
+    "failed_attempts": [
+      "loq"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:10.024707"
+  },
+  "6253e9db2fd7a1e3666596c7211b9995": {
+    "filename": "captcha_00565.png",
+    "label": null,
+    "failed_attempts": [
+      "zira"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:14.356538"
+  },
+  "44352b0ad685847061a9ed46861a43c2": {
+    "filename": "captcha_00566.png",
+    "label": null,
+    "failed_attempts": [
+      "daua"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:17.618233"
+  },
+  "ba5d1bbd60efedc049647fc6120bc7c1": {
+    "filename": "captcha_00567.png",
+    "label": null,
+    "failed_attempts": [
+      "huyo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:21.533716"
+  },
+  "30266107c450edf800812388e2e6d94b": {
+    "filename": "captcha_00568.png",
+    "label": null,
+    "failed_attempts": [
+      "jfp"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:25.484306"
+  },
+  "7316a57c987b6310d26bd4cedac0333d": {
+    "filename": "captcha_00569.png",
+    "label": null,
+    "failed_attempts": [
+      "fjo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:29.378036"
+  },
+  "5e985211c504e3eec20a4768a10ae950": {
+    "filename": "captcha_00570.png",
+    "label": "solf",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:38:34.379951"
+  },
+  "516e71a7c15924bfbb1915a98179b954": {
+    "filename": "captcha_00571.png",
+    "label": "zofx",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:38:42.273606"
+  },
+  "eb0b0334a15236bd5e1f0214c0e1c11d": {
+    "filename": "captcha_00572.png",
+    "label": "quwu",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:38:47.720380"
+  },
+  "27751c0377d4640405ddb94dd9273f1e": {
+    "filename": "captcha_00573.png",
+    "label": null,
+    "failed_attempts": [
+      "quxoxo"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:51.688594"
+  },
+  "005efa9e97b3104b8f9a7bef0a93d14d": {
+    "filename": "captcha_00574.png",
+    "label": null,
+    "failed_attempts": [
+      "waqc"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:38:55.558635"
+  },
+  "e09d85e1e7ff4f3b5112a26f4cae0800": {
+    "filename": "captcha_00575.png",
+    "label": "weru",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:39:00.468672"
+  },
+  "2a9d8a611b0fca5fb11d617acdf3caa9": {
+    "filename": "captcha_00576.png",
+    "label": "sotl",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:39:06.727914"
+  },
+  "f1edb74ad26f443b2da85713b0429c0f": {
+    "filename": "captcha_00577.png",
+    "label": "zuwk",
+    "confidence": "high",
+    "method": "auto_success",
+    "timestamp": "2025-08-11T12:39:11.893443"
+  },
+  "c8c97f65dcaaec3c59df9986555db4c1": {
+    "filename": "captcha_00578.png",
+    "label": null,
+    "failed_attempts": [
+      "jozm"
+    ],
+    "confidence": "manual_required",
+    "method": "multiple_failures",
+    "timestamp": "2025-08-11T12:39:16.119232"
+  }
+}

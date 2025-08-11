@@ -1,0 +1,39 @@
+# OCR 訓練和部署所需套件
+
+# 基礎套件
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+
+# 深度學習框架
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 資料處理
+scikit-learn>=1.0.0
+scikit-image>=0.19.0
+
+# ONNX 相關
+onnx>=1.14.0
+onnxruntime>=1.15.0
+# 如果有 NVIDIA GPU，可安裝：
+# onnxruntime-gpu>=1.15.0
+
+# API 服務
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
+
+# Selenium（資料收集用）
+selenium>=4.0.0
+undetected-chromedriver>=3.5.0
+
+# OCR 套件（比較用）
+ddddocr>=1.4.0
+
+# 開發工具（可選）
+jupyter>=1.0.0
+ipython>=8.0.0
+tensorboard>=2.13.0
