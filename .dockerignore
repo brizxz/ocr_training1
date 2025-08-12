@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+*.egg-info/
+
+# 訓練資料（太大）
+captcha_auto_label/
+training_data/
+*.png
+*.jpg
+*.jpeg
+
+# 日誌和暫存
+logs/
+*.log
+tmp/
+temp/
+
+# Git
+.git/
+.gitignore
+
+# 文檔
+*.md
+docs/
+
+# 測試
+test_*.py
+*_test.py
+
+# 備份
+backups/
+*.tar.gz
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 其他不需要的檔案
+*.sh
+!docker-entrypoint.sh
